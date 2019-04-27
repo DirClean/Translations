@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="current_translator">\@孟武.尼德霍格.龍、加藤乃愛</string>
-    <string name="about_current_translator">當前語言由 %1$s 翻譯</string>
+    <string name="about_current_translator">目前語言由 %1$s 翻譯</string>
 
     <string name="empty">空</string>
     <string name="title_clean">清理</string>
-    <string name="text_clean_finish">已釋放 %1$s 空間</string>
+    <string name="text_clean_finish">已釋放 %1$s 的空間</string>
     <string name="text_clean_all">累計清理了 %1$S</string>
     <string name="text_replace">攔截</string>
     <string name="text_loading">載入中</string>
@@ -13,26 +13,26 @@
     <string name="action_manage_rule">管理規則</string>
     <string name="action_scan">掃描</string>
     <string name="action_sync">同步</string>
-    <string name="alert_will_clean">所有選中的檔案都將被刪除</string>
-    <string name="alert_will_clean_confirm_circular">確保他們不會導致錯誤</string>
+    <string name="alert_will_clean">所有被選中的檔案都將被刪除</string>
+    <string name="alert_will_clean_confirm_circular">確保它們不會導致錯誤</string>
     <string name="err_no_trash">太棒了！您的裝置上沒有發現任何垃圾！</string>
     <string name="err_need_sync">請先同步本地規則</string>
     <string name="action_settings">設定</string>
     <string name="action_skip_empty_folder">跳過空資料夾</string>
     <string name="action_unlock_full">解鎖完整版</string>
-    <string name="action_contact_developer">聯絡開發者</string>
+    <string name="action_contact_developer">聯繫開發者</string>
     <string name="action_buy_google_play">Play 商店</string>
     <string name="action_buy_alipay">支付寶</string>
-    <string name="text_buy_success">感謝您的購買。請立即重新啟動應用以應用更改。</string>
-    <string name="err_buy">購買失敗，請聯絡開發者來尋求幫助。%1$s</string>
-    <string name="notification_uninstall_clean">應用已解除安裝，剩餘 %1$s 垃圾</string>
+    <string name="text_buy_success">感謝您的購買。請立即重新啟動應用程式以套用更改。</string>
+    <string name="err_buy">購買失敗，請聯繫開發者來尋求幫助。%1$s</string>
+    <string name="notification_uninstall_clean">應用程式已解除安裝，剩餘 %1$s 垃圾</string>
     <string name="notification_uninstall_loading">正在掃描 %1$s 的殘留…</string>
-    <string name="notification_uninstall_nothing">沒有發現任何垃圾，乾杯</string>
-    <string name="notification_uninstall_permission">點選以授予必要的許可權</string>
+    <string name="notification_uninstall_nothing">沒有發現任何垃圾，乾杯喵~</string>
+    <string name="notification_uninstall_permission">點選以授予必要的權限</string>
     <string name="action_uninstall_clean">解除安裝後清理殘留</string>
-    <string name="toast_uninstall_clean_enable">Dir 將在解除安裝應用後掃描並通知您</string>
+    <string name="toast_uninstall_clean_enable">Dir 將在解除安裝應用程式後掃描並通知您</string>
     <string name="title_replace_list">您可以在此刪除用於攔截建立的檔案。如果您清除了 Dir 的應用資料或資料庫，攔截列表會丟失，您可以重新掃描一遍來嘗試自動恢復攔截列表。\n長按可檢視詳細資訊。</string>
-    <string name="action_undo_ignore">刪除已忽略規則</string>
+    <string name="action_undo_ignore">刪除已忽略的規則</string>
     <string name="action_undo_replace">撤銷攔截</string>
     <string name="alert_undo_replace">確定要刪掉 %1$s 的攔截檔案嗎？</string>
     <string name="alert_undo_ignore">您確定要忽略 %1$s 嗎？</string>
@@ -78,7 +78,7 @@
 
     <string name="action_sort">排序</string>
     <string name="sort_size">體積</string>
-    <string name="sort_type">型別</string>
+    <string name="sort_type">類型</string>
     <string name="sort_application">應用</string>
 
     <string name="ignore_tip">已忽略 %1$s 條結果</string>
@@ -89,7 +89,7 @@
     <string name="help">幫助</string>
 
     <string name="alert_all_remove">刪除所有專案？</string>
-    <string name="permission_denied">沒有儲存許可權</string>
+    <string name="permission_denied">沒有儲存的權限</string>
 
     <string name="retry">重試</string>
 
@@ -117,7 +117,7 @@
     <string name="title_privacy">隱私政策</string>
 
     <string name="error_source_invalid_no_info">無效來源</string>
-    <string name="error_source_invalid">無效來源，請聯絡 %1$s</string>
+    <string name="error_source_invalid">無效來源，請聯繫 %1$s</string>
     <string name="source_add">新增來源</string>
 
     <string name="github_username">GitHub 使用者名稱</string>
@@ -134,18 +134,18 @@
     <string name="source_sync_success_err">已同步，但有一些錯誤，請檢查日誌</string>
 
     <!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
-    <string name="application_info_label">應用資訊</string>
+    <string name="application_info_label">應用程式資訊</string>
 
     <string name="rule_enabled">規則已啟用</string>
     <string name="rule_disabled_conflict">規則有一些衝突</string>
     <string name="rule_disabled_ignored">已忽略規則</string>
     <string name="rule_enabled_summary">您可以使用此規則</string>
-    <string name="rule_disabled_conflict_summary">此規則路徑與另一個規則相同，已被禁用</string>
+    <string name="rule_disabled_conflict_summary">此規則路徑與另一個規則相同，已被停用</string>
     <string name="rule_disabled_ignored_summary">規則已被忽略，您可以在“已忽略規則”處撤消。</string>
 
     <string name="rule_folder_title">路徑</string>
     <string name="rule_folder">SD 卡 %1$s %2$s</string>
-    <string name="rule_type_title">型別</string>
+    <string name="rule_type_title">類型</string>
     <string name="rule_pkgs_title">%1$s 應用可能會生成此檔案</string>
 
     <string name="type_file">檔案</string>
@@ -179,7 +179,7 @@
     <string name="action_activate">輸入金鑰</string>
     <string name="action_activate_summary">啟用、恢復購買、輸入兌換程式碼</string>
     <string name="license_view_template"><![CDATA[
-許可證： %1$s<br />交易： %2$s<br />電子郵件（如果您的許可證不是來自 shop.yuuta.moe，則為空）： %3$s
+許可證： %1$s<br />交易： %2$s<br />電子郵件（如果您的許可證不是來自 shop.yuuta.moe，則留空）： %3$s
     ]]></string>
 
     <string name="activate_invalid">您的金鑰無效</string>
@@ -218,7 +218,7 @@
     <string name="skip_rule_subtitle">您可以在掃描結果頁向右劃掉忽略不想被掃描到的規則，在此可以撤銷忽略</string>
 
     <string name="settings_rules">規則</string>
-    <string name="settings_support">幫助和支援</string>
+    <string name="settings_support">說明和支援</string>
 
     <string name="settings_licence">您的許可證</string>
 
@@ -236,7 +236,7 @@
     <string name="settings_styles_accent">強調色</string>
     <string name="settings_styles_accent_summary">按鈕、連結等的顏色</string>
     <string name="settings_styles_primary_dark">深基本色</string>
-    <string name="settings_styles_primary_dark_summary">狀態列顏色（不帶主頁）</string>
+    <string name="settings_styles_primary_dark_summary">狀態列顏色（不含首頁）</string>
 
     <string name="settings_contact_email">電子郵件</string>
     <string name="settings_other">其他</string>
@@ -252,15 +252,15 @@
     <string name="status_alpha_default">預設</string>
     <string name="status_alpha_white">深白</string>
 
-    <string name="root_replace_need_root">本功能需要 &lt;b>Root&lt;/b>。它可以修改攔截時產生的檔案許可權防止其他應用刪除它們。
-    &lt;br &lt;/>刪除這些檔案也同樣需要 Root 許可權。
+    <string name="root_replace_need_root">本功能需要 &lt;b>Root&lt;/b>。它可以修改攔截時產生的檔案權限防止其他應用程式刪除它們。
+    &lt;br &lt;/>刪除這些檔案也同樣需要 Root 權限。
     &lt;br &lt;/>&lt;br &lt;/>%1$s</string>
 
     <string name="root_replace_support">您的裝置支援此功能，如果用於攔截的檔案仍然可以刪除，請將 可用性測試 結果發給開發者</string>
     <string name="root_replace_not_support">您的裝置不支援，您可以向開發者傳送終端原始輸出</string>
 
-    <string name="check_root">正在申請 Root 許可權</string>
-    <string name="err_no_root">缺少 Root 許可權</string>
+    <string name="check_root">正在申請 Root 權限</string>
+    <string name="err_no_root">缺少 Root 權限</string>
 
     <string name="action_shell_raw_output">終端原始輸出</string>
     <string name="action_usability_test">可用性測試</string>
@@ -288,5 +288,5 @@
     <string name="mode_log">日誌</string>
     <string name="mode_uninstall">解除安裝殘留</string>
     <string name="mode_user_data">使用者資料</string>
-    <string name="mode_custom">自定義</string>
+    <string name="mode_custom">自訂</string>
 </resources>
