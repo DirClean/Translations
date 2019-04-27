@@ -13,7 +13,7 @@
     <string name="action_manage_rule">管理规则</string>
     <string name="action_scan">扫描</string>
     <string name="action_sync">同步</string>
-    <string name="alert_will_clean">所有选中的将被删除</string>
+    <string name="alert_will_clean">所有选中的文件都将被删除</string>
     <string name="alert_will_clean_confirm_circular">确保他们不会导致错误</string>
     <string name="err_no_trash">太棒了！您的设备上没有发现任何垃圾！</string>
     <string name="err_need_sync">请先同步本地规则</string>
@@ -38,7 +38,7 @@
     <string name="alert_undo_ignore">您确定要忽略 %1$s 吗？</string>
     <string name="err_undo">无法撤消</string>
     <string name="action_shortcut_clean">清理文件</string>
-    <string name="alert_delete_message">设备（ROM）可能不支持某些规则（删除或拦截）。\n我们正在尽最大努力确保您的数据没有被错误删除或拦截。\n开发者对您丢失的数据和稳定性不承担任何责任。</string>
+    <string name="alert_delete_message">一些规则（删除或拦截）可能不兼容您的设备（ROM）。\n我们也在竭尽全力保证您的数据不被误删或不正确地拦截。\n开发者不对您的数据和稳定性负责任。</string>
 
     <string name="unavailable">不可用</string>
 
@@ -62,7 +62,7 @@
     <string name="carefully_both">谨慎清理及拦截</string>
 
     <string name="check_update">检查更新</string>
-    <string name="update_available">可用</string>
+    <string name="update_available">可下载</string>
     <string name="update_current">当前</string>
     <string name="update_older">旧版</string>
     <string name="play_store">Play 商店</string>
@@ -215,22 +215,22 @@
     <string name="notification_text_update">点击此处升级至最新版本并获取更多功能</string>
 
     <string name="skip_rule_title">已忽略规则</string>
-    <string name="skip_rule_subtitle">您可以在扫描结果页中向右滑动以忽略规则，并且可以在此处撤消忽略</string>
+    <string name="skip_rule_subtitle">您可以在扫描结果页向右划掉忽略不想被扫描到的规则，在此可以撤销忽略</string>
 
     <string name="settings_rules">规则</string>
-    <string name="settings_support">帮助 &amp; 支持</string>
+    <string name="settings_support">帮助和支持</string>
 
     <string name="settings_licence">您的许可证</string>
 
-    <string name="settings_file_root_replace">使用 Root 用户</string>
-    <string name="settings_file_root_replace_summary">拦截非 Root 应用删除拦截的文件</string>
+    <string name="settings_file_root_replace">使用 Root 替换</string>
+    <string name="settings_file_root_replace_summary">阻止非 Root 应用程序试图删除用于替换的文件</string>
 
     <string name="settings_beta">加入测试项目</string>
     <string name="settings_beta_summary">安装不稳定版本，体验最新功能并帮助开发人员测试应用程序</string>
 
-    <string name="settings_ui">用户界面</string>
+    <string name="settings_ui">界面外观</string>
 
-    <string name="settings_styles">颜色</string>
+    <string name="settings_styles">配色</string>
     <string name="settings_styles_primary">基本色</string>
     <string name="settings_styles_primary_summary">Dir 的基本色</string>
     <string name="settings_styles_accent">强调色</string>
@@ -252,25 +252,25 @@
     <string name="status_alpha_default">默认</string>
     <string name="status_alpha_white">深白</string>
 
-    <string name="root_replace_need_root">此特性需要 &lt;b>Root&lt;/b>。Dir 将修改在拦截期间创建的文件的权限，以防止其他应用程序删除这些文件。
-    &lt;br &lt;/>您没有 Root 权限不能删除它们。
+    <string name="root_replace_need_root">本功能需要 &lt;b>Root&lt;/b>。它可以修改拦截时产生的文件权限防止其他应用删除它们。
+    &lt;br &lt;/>删除这些文件也同样需要 Root 权限。
     &lt;br &lt;/>&lt;br &lt;/>%1$s</string>
 
-    <string name="root_replace_support">您的设备支持此功能，如果用于拦截的文件仍然可以删除，请将“可用性检查”的结果发送给开发人员。</string>
-    <string name="root_replace_not_support">您的设备不支持此功能，您可以将原始终端输出发送给开发者。</string>
+    <string name="root_replace_support">您的设备支持，若启用并替换文件夹后用于替换的文件仍然可被普通删除，请将 可用性测试 结果发给开发者</string>
+    <string name="root_replace_not_support">您的设备不支持，您可以向开发者发送终端原始输出</string>
 
-    <string name="check_root">请求 Root 权限</string>
-    <string name="err_no_root">Root 权限被拒绝</string>
+    <string name="check_root">正在申请 Root 权限</string>
+    <string name="err_no_root">缺少 Root 权限</string>
 
-    <string name="action_shell_raw_output">原始终端输出</string>
-    <string name="action_usability_test">检查可用性</string>
+    <string name="action_shell_raw_output">终端原始输出</string>
+    <string name="action_usability_test">可用性测试</string>
 
-    <string name="force_enable_root_replace_summary">虽然它看起来不支持您的设备，但您仍然可以强制启用它。（我们建议您首先使用“可用性检查”）</string>
+    <string name="force_enable_root_replace_summary">虽然它看起来不支持您的设备，但您仍然可以强制启用它。（我们建议您首先使用“可用性测试”）</string>
 
     <string name="iab_subtitle">支持我的工作并解锁全部功能</string>
 
-    <string name="iab_function_uninstall_clean_title">清理卸载残留</string>
-    <string name="iab_function_uninstall_clean_summary">Dir 将在卸载应用程序后扫描并通知您</string>
+    <string name="iab_function_uninstall_clean_title">卸载清理</string>
+    <string name="iab_function_uninstall_clean_summary">将会在应用卸载后自动扫描并提醒您</string>
 
     <string name="iab_function_skip_empty_folders_title">跳过空文件夹</string>
     <string name="iab_function_skip_empty_folders_summary">扫描时跳过空文件夹</string>
