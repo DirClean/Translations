@@ -25,7 +25,7 @@ The XML is Android Resources XML file. For more information, take a look at onli
     <!-- Add a String resource which has the name of "my_key" and its value (which will be displayed in most of the cases) is "My Value". -->
     <string name="my_key">My Value</string>
     <!-- Add another String resource -->
-    <string name="my_name">YuutaW</string
+    <string name="my_name">YuutaW</string>
 </resources>
 ```
 
