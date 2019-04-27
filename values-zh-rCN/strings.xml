@@ -222,8 +222,8 @@
 
     <string name="settings_licence">您的许可证</string>
 
-    <string name="settings_file_root_replace">使用 Root 替换</string>
-    <string name="settings_file_root_replace_summary">阻止非 Root 应用程序试图删除用于替换的文件</string>
+    <string name="settings_file_root_replace">使用 Root 拦截</string>
+    <string name="settings_file_root_replace_summary">阻止非 Root 应用程序试图删除用于拦截的文件</string>
 
     <string name="settings_beta">加入测试项目</string>
     <string name="settings_beta_summary">安装不稳定版本，体验最新功能并帮助开发人员测试应用程序</string>
@@ -256,7 +256,7 @@
     &lt;br &lt;/>删除这些文件也同样需要 Root 权限。
     &lt;br &lt;/>&lt;br &lt;/>%1$s</string>
 
-    <string name="root_replace_support">您的设备支持，若启用并替换文件夹后用于替换的文件仍然可被普通删除，请将 可用性测试 结果发给开发者</string>
+    <string name="root_replace_support">您的设备支持此功能，如果用于拦截的文件仍然可以删除，请将 可用性测试 结果发给开发者</string>
     <string name="root_replace_not_support">您的设备不支持，您可以向开发者发送终端原始输出</string>
 
     <string name="check_root">正在申请 Root 权限</string>
