@@ -18,7 +18,7 @@
     <string name="err_no_trash">Great! There is no trash found in your phone!</string>
     <string name="err_need_sync">Please sync local rules first</string>
     <string name="action_settings">Settings</string>
-    <string name="action_skip_empty_folder">Skip empty rules</string>
+    <string name="action_skip_empty_folder">Skip empty folders</string>
     <string name="action_unlock_full">Unlock full version</string>
     <string name="action_contact_developer">Contact the developer</string>
     <string name="action_buy_google_play">Play Store</string>
@@ -153,12 +153,12 @@
 
     <string name="prevent_summary_short">Prevent deleted files creating again</string>
     <string name="prevent_summary"><![CDATA[
-    You can prevent deleted files re-creating. If you\'d like to use this feature, please enable it and check the checkbox (like a hand) in each scan result.
+    You can prevent deleted files re-creating. If you\'d like to use this feature, please enable it and check the checkbox (raise hand icon) in each scan result.
 
 <br />Dir will create a empty file with the same name and path when you\'re deleting a folder or file, it is used to prevent the deleted file/folder be re-created.
 
 <br /><br />
-<b>This feature is dangerous, use it on your own rick</b>. If you\'ve prevented some important files, it may cause some third-party applications failure (e.g. can\'t download, can\'t open).
+<b>This feature is dangerous, use it on your own risk</b>. If you\'ve prevented some important files, it may cause some third-party applications failure (e.g. can\'t download, can\'t open).
 <br />You can use <b>Undo preventing</b> and <b>Undo old preventing</b>, they can solve most problems.
     ]]></string>
 
@@ -185,7 +185,7 @@ License: %1$s<br />Transaction: %2$s<br />Email (null if your license is not fro
     <string name="activate_invalid">Your key is invalid</string>
 
     <string name="developer_settings_title">Experimental Settings</string>
-    <string name="developer_settings_summary">These options are experimental, use them at your own rick</string>
+    <string name="developer_settings_summary">These options are experimental, use them at your own risk</string>
 
     <string name="feedback_apps_title">Dir Feedback</string>
     <string name="feedback_payment_title">Dir Payment Feedback</string>

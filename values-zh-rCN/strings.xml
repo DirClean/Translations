@@ -1,43 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="current_translator">开发者</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="current_translator">开发者、加藤乃爱</string>
     <string name="about_current_translator">当前语言由 %1$s 翻译</string>
 
     <string name="empty">空</string>
     <string name="title_clean">清理</string>
-    <string name="text_clean_finish">已释放%1$s空间</string>
-    <string name="text_clean_all">累计清理了%1$S</string>
+    <string name="text_clean_finish">已释放 %1$s 空间</string>
+    <string name="text_clean_all">累计清理了 %1$S</string>
     <string name="text_replace">拦截</string>
     <string name="text_loading">加载中</string>
     <string name="text_delete">删除</string>
-    <string name="progress_scan_found">找到%1$s，<![CDATA[<b>已选%2$s</b>]]></string>
     <string name="action_manage_rule">管理规则</string>
     <string name="action_scan">扫描</string>
     <string name="action_sync">同步</string>
-    <string name="alert_will_clean">所有选中的文件都将被删除</string>
+    <string name="alert_will_clean">所有选中的将被删除</string>
+    <string name="alert_will_clean_confirm_circular">确保他们不会导致错误</string>
     <string name="err_no_trash">太棒了！您的设备上没有发现任何垃圾！</string>
     <string name="err_need_sync">请先同步本地规则</string>
     <string name="action_settings">设置</string>
     <string name="action_skip_empty_folder">跳过空文件夹</string>
     <string name="action_unlock_full">解锁完整版</string>
-    <string name="action_contact_developer">联系我们</string>
+    <string name="action_contact_developer">联系开发者</string>
     <string name="action_buy_google_play">Play 商店</string>
     <string name="action_buy_alipay">支付宝</string>
-    <string name="text_buy_success">感谢您的购买。请现在重启应用程序来应用更改</string>
-    <string name="err_buy">购买失败，请联系开发者来获取帮助. %1$s</string>
-    <string name="notification_uninstall_clean">应用已卸载，剩余%1$s垃圾</string>
-    <string name="action_uninstall_clean">卸载清理</string>
-    <string name="toast_uninstall_clean_enable">将会在有垃圾的软件卸载后提醒您</string>
-    <string name="title_replace_list">你可以在此删除用于拦截创建的文件。如果您清除了Dir的应用数据或数据库，拦截列表会丢失，您可以重新扫描一遍来尝试自动恢复拦截列表。\n长按查看详情</string>
+    <string name="text_buy_success">感谢您的购买。请立即重新启动应用以应用更改。</string>
+    <string name="err_buy">购买失败，请联系开发者来寻求帮助。%1$s</string>
+    <string name="notification_uninstall_clean">应用已卸载，剩余 %1$s 垃圾</string>
+    <string name="notification_uninstall_loading">正在扫描 %1$s 的残留…</string>
+    <string name="notification_uninstall_nothing">没有发现任何垃圾，干杯</string>
+    <string name="notification_uninstall_permission">点击以授予必要的权限</string>
+    <string name="action_uninstall_clean">卸载后清理残留</string>
+    <string name="toast_uninstall_clean_enable">Dir 将在卸载应用后扫描并通知您</string>
+    <string name="title_replace_list">您可以在此删除用于拦截创建的文件。如果您清除了 Dir 的应用数据或数据库，拦截列表会丢失，您可以重新扫描一遍来尝试自动恢复拦截列表。\n长按可查看详细信息。</string>
+    <string name="action_undo_ignore">删除已忽略规则</string>
     <string name="action_undo_replace">撤销拦截</string>
-    <string name="alert_undo_replace">确定要删掉%1$s的拦截文件吗？</string>
-    <string name="err_undo">无法撤销</string>
+    <string name="alert_undo_replace">确定要删掉 %1$s 的拦截文件吗？</string>
+    <string name="alert_undo_ignore">您确定要忽略 %1$s 吗？</string>
+    <string name="err_undo">无法撤消</string>
     <string name="action_shortcut_clean">清理文件</string>
-    <string name="alert_delete_message">一些规则（删除或拦截）可能不兼容您的设备（ROM）。\n我们也在竭尽全力保证您的数据不被误删或不正确地拦截。\n开发者不对您的数据和稳定性负责任。</string>
+    <string name="alert_delete_message">设备（ROM）可能不支持某些规则（删除或拦截）。\n我们正在尽最大努力确保您的数据没有被错误删除或拦截。\n开发者对您丢失的数据和稳定性不承担任何责任。</string>
 
     <string name="unavailable">不可用</string>
 
-    <string name="err_global">出现了问题，请稍后再试</string>
+    <string name="err_global">出现问题，请稍后再试</string>
     <string name="success">成功</string>
 
     <string name="action_detail">详情</string>
@@ -50,20 +55,20 @@
     <string name="pass">通过</string>
 
     <string name="restore_old_replace">撤销旧的拦截</string>
-    <string name="restore_old_replace_help">某些已在您的设备上拦截的规则可能已被云端删除，这种情况下，您的“撤销拦截”列表将无法找到该项目，因此您就无法撤销它们。您可以从本列表找到并撤销这些规则</string>
+    <string name="restore_old_replace_help">某些已在您的设备上拦截的规则可能已被云端删除，这种情况下，您的“撤销拦截”列表将无法找到该项目，因此您就无法撤销它们。您可以从本列表找到并撤销这些规则。</string>
 
     <string name="carefully_clean">谨慎清理</string>
     <string name="carefully_replace">谨慎拦截</string>
     <string name="carefully_both">谨慎清理及拦截</string>
 
     <string name="check_update">检查更新</string>
-    <string name="update_available">可下载</string>
+    <string name="update_available">可用</string>
     <string name="update_current">当前</string>
     <string name="update_older">旧版</string>
-    <string name="play_store">Play商店</string>
+    <string name="play_store">Play 商店</string>
     <string name="tap_to_view_change_log">点击即可查看更新日志</string>
     <string name="join_beta">安装 Beta 版即表示加入测试</string>
-    <string name="new_update_snack">新版本可用</string>
+    <string name="new_update_snack">新版本可用！</string>
     <string name="check_update_short">查看</string>
 
     <string name="single_title">单独删除该项</string>
@@ -71,83 +76,217 @@
 
     <string name="hide_anno">永久隐藏</string>
 
+    <string name="action_sort">排序</string>
     <string name="sort_size">体积</string>
     <string name="sort_type">类型</string>
     <string name="sort_application">应用</string>
 
     <string name="ignore_tip">已忽略 %1$s 条结果</string>
-    <string name="about">关于</string>
-    <string name="open_source_licenses">开放源代码许可</string>
-    <string name="slogan">SD 卡垃圾文件清理工具</string>
+    <string name="ignore_tip_signal_case">已忽略</string>
 
-    
+    <string name="progress_scan_found">找到 %1$s，<![CDATA[<b>已选%2$s</b>]]></string>
+
+    <string name="help">帮助</string>
+
+    <string name="alert_all_remove">删除所有项目？</string>
+    <string name="permission_denied">没有存储权限</string>
+
+    <string name="retry">重试</string>
+
+    <eat-comment />
+    <eat-comment />
+    <!-- Date format -->
+    <!-- Just, < 1 min -->
+    <!-- 1 Minute ago, >= 1 Minute, < 60 Minutes -->
+    <!-- 1 Hours ago, >= 1 hour, < 24 hours -->
+    <!-- 1 Day ago, >= 1 day, < days -->
+    <!-- For non-just and non-long format -->
+    <!-- For Just format -->
+    <!-- For Long ago format -->
+
+    <string name="source_manage">管理规则来源</string>
+    <string name="source_summary_none">（没有提供介绍）</string>
+    <string name="about">关于</string>
+    <string name="open_source_licenses">开源许可证</string>
+    <string name="slogan">SD 卡清理工具</string>
+    <string name="rule_author_developer">开发者</string>
+    <string name="developer">开发者 &amp; 特别贡献者</string>
+    <string name="contributors">下面这些用户帮助了 Dir（未排序）\n\n* @atony （艺术家）\n* @neoFelhz （主页设计师）\n* @RikkaW （设计师）\n* @fairyex （设计师、艺术家）\n* @dyingsu （技术支持者）\n* @duangsuse （技术支持者）</string>
+    <string name="title_contributors">贡献者</string>
+    <string name="privacy_info">https://github.com/TaRGroup/Privacy-Policy</string>
+    <string name="title_privacy">隐私政策</string>
+
+    <string name="error_source_invalid_no_info">无效来源</string>
+    <string name="error_source_invalid">无效来源，请联系 %1$s</string>
+    <string name="source_add">添加来源</string>
+
+    <string name="github_username">GitHub 用户名</string>
+    <string name="github_repo">存储库</string>
+    <string name="github_branch">分支（可选）</string>
+    <string name="add">添加</string>
+    <string name="source_add_success">%1$s 已添加</string>
+
+    <string name="confirm_delete">确认删除</string>
+
+    <string name="source_sync_err_net">无法同步 %1$s，请检查您的网络并重试。</string>
+
+    <string name="source_sync_success_all_done">同步已完成</string>
+    <string name="source_sync_success_err">已同步，但有一些错误，请检查日志</string>
+
+    <!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
+    <string name="application_info_label">应用信息</string>
+
     <string name="rule_enabled">规则已启用</string>
-    <string name="rule_disabled_conflict">规则有冲突</string>
-    <string name="rule_disabled_ignored">规则已被忽略</string>
-    <string name="rule_enabled_summary">规则已启用，您将可以扫描到该规则</string>
-    <string name="rule_disabled_conflict_summary">该路径与其他规则路径相同，已被禁用，您可以前往规则源管理页面更改设置</string>
-    <string name="rule_disabled_ignored_summary">规则被您忽略，您可以前往“被忽略的规则”取消隐藏它</string>
+    <string name="rule_disabled_conflict">规则有一些冲突</string>
+    <string name="rule_disabled_ignored">已忽略规则</string>
+    <string name="rule_enabled_summary">您可以使用此规则</string>
+    <string name="rule_disabled_conflict_summary">此规则路径与另一个规则相同，已被禁用</string>
+    <string name="rule_disabled_ignored_summary">规则已被忽略，您可以在“已忽略规则”处撤消。</string>
+
+    <string name="rule_folder_title">路径</string>
+    <string name="rule_folder">SD 卡 %1$s %2$s</string>
+    <string name="rule_type_title">类型</string>
+    <string name="rule_pkgs_title">%1$s 应用可能会生成此文件</string>
 
     <string name="type_file">文件</string>
     <string name="type_folder">文件夹</string>
 
-    <string name="restart">重启</string>
+    <string name="prevent_summary_short">拦截删除的文件再次被创建</string>
+    <string name="prevent_summary"><![CDATA[
+    您可以防止重新创建已删除的文件。您如果要使用此功能，请启用它并选中每个扫描结果中举手图标的复选框。
 
-    <string name="mode_none">(无)</string>
+<br />当您删除一个文件夹或文件时，Dir 将创建一个具有相同名称和路径的空文件，它用于拦截重新创建已删除的文件/文件夹。
+
+<br /><br />
+<b>此功能很危险，风险请自行承担</b>。如果您拦截了一些重要的文件，可能会导致某些第三方应用程序失败（例如无法下载、无法打开）。
+<br />你可以使用<b>撤销拦截</b>和<b>撤销旧的拦截</b>，他们能解决大多数问题。
+    ]]></string>
+
+    <string name="rule_detail_author">由 %1$s</string>
+
+    <string name="scan_group_multi_pkg">（多个）</string>
+    <string name="split_char">，</string>
+    <string name="restart">重新启动</string>
+
+    <string name="update_subtitle_placeholder">%1$s ‧ %2$s</string>
+    <string name="title_under_construction">尚未开发完成</string>
+    <string name="under_construction_manage_source">想要同步规则？</string>
+    <string name="error">错误</string>
+
+    <string name="license_buy_method_template">通过 %1$s 激活</string>
+    <string name="redeem">兑换</string>
+    <string name="store">商店</string>
+    <string name="action_activate">输入密钥</string>
+    <string name="action_activate_summary">激活、恢复购买、输入兑换代码</string>
+    <string name="license_view_template"><![CDATA[
+许可证： %1$s<br />交易： %2$s<br />电子邮件（如果您的许可证不是来自 shop.yuuta.moe，则为空）： %3$s
+    ]]></string>
+
+    <string name="activate_invalid">您的密钥无效</string>
+
+    <string name="developer_settings_title">实验室</string>
+    <string name="developer_settings_summary">这些选项是实验性的，使用它们的风险由您自己承担</string>
+
+    <string name="feedback_apps_title">Dir 反馈</string>
+    <string name="feedback_payment_title">Dir 付款反馈</string>
+    <string name="feedback_content_templace">
+        \n设备信息 （请勿删除这部分）：\n制造商： %1$s\n设备： %2$s\n版本： %3$s\nSDK： %4$s\n设备信息结束。\n
+    </string>
+
+    <string name="activate_title">激活</string>
+    <string name="activate_action">激活</string>
+    <string name="activate_subtitle">使用您的 YuutaW\'s 商店帐号</string>
+    <string name="activate_order_subtitle">使用您的订单 ID</string>
+    <string name="activate_order_id">订单 ID</string>
+    <string name="activate_order_id_helper">来自您的支付宝订单</string>
+    <string name="activate_order_help"><![CDATA[
+获取订单 ID 有困难？<a href="https://dir.yuuta.moe/support/which-kind-of-key-should-i-input/">获取帮助</a>
+    ]]></string>
+    <string name="activate_email">电子邮件</string>
+    <string name="activate_serial">Serial</string>
+    <string name="activate_serial_helper">在订单信息底部</string>
+    <string name="activate_use_order">使用订单 ID</string>
+    <string name="activate_use_account">使用商店帐号</string>
+    <string name="activate_done">重新启动应用以应用更改</string>
+
+    <string name="notification_channel_update">升级</string>
+    <string name="notification_title_update">%1$s 可供下载</string>
+    <string name="notification_text_update_summary">点击此处升级至最新版本</string>
+    <string name="notification_text_update">点击此处升级至最新版本并获取更多功能</string>
+
+    <string name="skip_rule_title">已忽略规则</string>
+    <string name="skip_rule_subtitle">您可以在扫描结果页中向右滑动以忽略规则，并且可以在此处撤消忽略</string>
+
+    <string name="settings_rules">规则</string>
+    <string name="settings_support">帮助 &amp; 支持</string>
+
+    <string name="settings_licence">您的许可证</string>
+
+    <string name="settings_file_root_replace">使用 Root 用户</string>
+    <string name="settings_file_root_replace_summary">拦截非 Root 应用删除拦截的文件</string>
+
+    <string name="settings_beta">加入测试项目</string>
+    <string name="settings_beta_summary">安装不稳定版本，体验最新功能并帮助开发人员测试应用程序</string>
+
+    <string name="settings_ui">用户界面</string>
+
+    <string name="settings_styles">颜色</string>
+    <string name="settings_styles_primary">基本色</string>
+    <string name="settings_styles_primary_summary">Dir 的基本色</string>
+    <string name="settings_styles_accent">强调色</string>
+    <string name="settings_styles_accent_summary">按钮、链接等的颜色</string>
+    <string name="settings_styles_primary_dark">深基本色</string>
+    <string name="settings_styles_primary_dark_summary">状态栏颜色（不带主页）</string>
+
+    <string name="settings_contact_email">电子邮件</string>
+    <string name="settings_other">其他</string>
+    <string name="settings_faq">常见问题</string>
+
+    <string name="developer_options">开发者选项</string>
+    <string name="support_telegram">Telegram 交（灌）流（水）群</string>
+    <string name="support_share_logs">分享日志</string>
+
+    <string name="support_website">官方网站</string>
+
+    <string name="status_bar_settings">设置主页状态栏颜色</string>
+    <string name="status_alpha_default">默认</string>
+    <string name="status_alpha_white">深白</string>
+
+    <string name="root_replace_need_root">此特性需要 &lt;b>Root&lt;/b>。Dir 将修改在拦截期间创建的文件的权限，以防止其他应用程序删除这些文件。
+    &lt;br &lt;/>您没有 Root 权限不能删除它们。
+    &lt;br &lt;/>&lt;br &lt;/>%1$s</string>
+
+    <string name="root_replace_support">您的设备支持此功能，如果用于拦截的文件仍然可以删除，请将“可用性检查”的结果发送给开发人员。</string>
+    <string name="root_replace_not_support">您的设备不支持此功能，您可以将原始终端输出发送给开发者。</string>
+
+    <string name="check_root">请求 Root 权限</string>
+    <string name="err_no_root">Root 权限被拒绝</string>
+
+    <string name="action_shell_raw_output">原始终端输出</string>
+    <string name="action_usability_test">检查可用性</string>
+
+    <string name="force_enable_root_replace_summary">虽然它看起来不支持您的设备，但您仍然可以强制启用它。（我们建议您首先使用“可用性检查”）</string>
+
+    <string name="iab_subtitle">支持我的工作并解锁全部功能</string>
+
+    <string name="iab_function_uninstall_clean_title">清理卸载残留</string>
+    <string name="iab_function_uninstall_clean_summary">Dir 将在卸载应用程序后扫描并通知您</string>
+
+    <string name="iab_function_skip_empty_folders_title">跳过空文件夹</string>
+    <string name="iab_function_skip_empty_folders_summary">扫描时跳过空文件夹</string>
+
+    <string name="err_network">网络有问题，请稍后再试</string>
+
+    <string name="err_user_not_found">用户未找到</string>
+    <string name="err_repo_not_found">存储库未找到</string>
+    <string name="err_tree_not_found">分支未找到</string>
+    <string name="err_source_exist">现有来源</string>
+
+    <string name="mode_none">（无）</string>
     <string name="mode_cache">缓存</string>
     <string name="mode_ad">广告</string>
     <string name="mode_log">日志</string>
     <string name="mode_uninstall">卸载残留</string>
     <string name="mode_user_data">用户数据</string>
     <string name="mode_custom">自定义</string>
-
-    <string name="err_network">网络异常，请稍后再试</string>
-
-    <string name="iab_subtitle">支持开发并解锁完整功能</string>
-
-    <string name="iab_function_uninstall_clean_title">卸载清理</string>
-    <string name="iab_function_uninstall_clean_summary">将会在应用卸载后自动扫描并提醒您</string>
-
-    <string name="iab_function_skip_empty_folders_title">跳过空文件夹</string>
-    <string name="iab_function_skip_empty_folders_summary">扫描时跳过空文件夹</string>
-
-    <string name="root_replace_need_root">本功能需要 &lt;b>ROOT&lt;/b>。它可以修改拦截时产生的文件权限防止其他应用删除它们。
-    &lt;br &lt;/>删除这些文件也同样需要 ROOT 权限。
-    &lt;br &lt;/>&lt;br &lt;/>%1$s</string>
-
-    <string name="root_replace_support">您的设备支持，若启用并替换文件夹后用于替换的文件仍然可被普通删除，请将 可用性测试 结果发给开发者</string>
-    <string name="root_replace_not_support">您的设备不支持，您可以向开发者发送终端原始输出</string>
-
-    <string name="check_root">正在申请Root权限</string>
-    <string name="err_no_root">缺少 Root 权限</string>
-
-    <string name="action_shell_raw_output">终端原始输出</string>
-    <string name="action_usability_test">可用性测试</string>
-
-    <string name="settings_rules">规则</string>
-    <string name="settings_support">帮助和支持</string>
-
-    <string name="settings_licence">支付宝订单号</string>
-
-    <string name="settings_file_root_replace">使用ROOT替换</string>
-    <string name="settings_file_root_replace_summary">阻止非ROOT应用程序试图删除用于替换的文件</string>
-
-    <string name="settings_beta">成为测试者</string>
-    <string name="settings_beta_summary">安装不稳定版本，体验最新功能并帮助开发人员测试应用程序</string>
-
-    <string name="settings_ui">界面外观</string>
-
-    <string name="settings_styles">配色</string>
-
-    <string name="settings_contact_email">邮件</string>
-    <string name="settings_other">其他</string>
-    <string name="settings_faq">常见问题</string>
-
-    <string name="developer_options">开发者选项</string>
-    <string name="support_telegram">Telegram 群</string>
-
-    <string name="support_website">官方网站</string>
-
-    <string name="skip_rule_title">已忽略的规则</string>
-    <string name="skip_rule_subtitle">您可以在扫描结果页向右划掉忽略不想被扫描到的规则，在此可以撤销忽略</string>
 </resources>
