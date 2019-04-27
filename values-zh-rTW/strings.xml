@@ -40,7 +40,7 @@
     <string name="action_shortcut_clean">清理檔案</string>
     <string name="alert_delete_message">一些規則（刪除或攔截）可能不相容您的裝置（ROM）。\n我們也在竭盡全力保證您的資料不被誤刪或不正確地攔截。\n開發者不對您的資料和穩定性負責任。</string>
 
-    <string name="unavailable">不可用</string>
+    <string name="unavailable">無效</string>
 
     <string name="err_global">出現問題，請稍後再試</string>
     <string name="success">成功</string>
