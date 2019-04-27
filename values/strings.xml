@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="current_translator">Developer and @Rachel030219</string>
+    <string name="about_current_translator">Your language is translated by %1$s</string>
+
+    <string name="empty">Empty</string>
+    <string name="title_clean">Clean</string>
+    <string name="text_clean_finish">Released %1$s space</string>
+    <string name="text_clean_all">Released %1$S in total</string>
+    <string name="text_replace">Prevent</string>
+    <string name="text_loading">Loading</string>
+    <string name="text_delete">Delete</string>
+    <string name="action_manage_rule">Manage rules</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_sync">Sync</string>
+    <string name="alert_will_clean">All chosen will be deleted</string>
+    <string name="alert_will_clean_confirm_circular">Make sure they won\'t cause errors</string>
+    <string name="err_no_trash">Great! There is no trash found in your phone!</string>
+    <string name="err_need_sync">Please sync local rules first</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_skip_empty_folder">Skip empty rules</string>
+    <string name="action_unlock_full">Unlock full version</string>
+    <string name="action_contact_developer">Contact the developer</string>
+    <string name="action_buy_google_play">Play Store</string>
+    <string name="action_buy_alipay">Alipay</string>
+    <string name="text_buy_success">Thanks for purchasing. Please restart app now to apply changes.</string>
+    <string name="err_buy">Purchasing failed, please contact the developer for help. %1$s</string>
+    <string name="notification_uninstall_clean">App uninstalled, %1$s trash remaining</string>
+    <string name="notification_uninstall_loading">Scanning remnant for %1$s …</string>
+    <string name="notification_uninstall_nothing">Did not find any rubbish, cheers</string>
+    <string name="notification_uninstall_permission">Click to grant the necessary permission</string>
+    <string name="action_uninstall_clean">Clean remnant after uninstallation</string>
+    <string name="toast_uninstall_clean_enable">Dir will scan and notify you after uninstallation of apps</string>
+    <string name="title_replace_list">You can delete the files used to prevent here. If you clear the data or database of Dir, the list will be lost, you can rescan to try to restore replacing list.\nLong press to view details.</string>
+    <string name="action_undo_ignore">Remove ignored rule</string>
+    <string name="action_undo_replace">Undo preventing</string>
+    <string name="alert_undo_replace">Are you sure to delete the preventing file of %1$s ?</string>
+    <string name="alert_undo_ignore">Are you sure to ignore %1$s ?</string>
+    <string name="err_undo">Unable to undo</string>
+    <string name="action_shortcut_clean">Clean files</string>
+    <string name="alert_delete_message">Some rules(deletion or prevention) may be unsupported with your device(ROM).\nWe are trying our best to make sure your data isn\'t deleted or prevented wrongly.\nThe developer has no responsibility to your lost data and stability.</string>
+
+    <string name="unavailable">Unavailable</string>
+
+    <string name="err_global">Something wrong happened, please try again later</string>
+    <string name="success">Succeeded</string>
+
+    <string name="action_detail">Details</string>
+    <string name="err_title">Error</string>
+    <string name="finish">Done</string>
+    <string name="other">Others</string>
+    <string name="enable">Enable</string>
+
+    <string name="start">Start</string>
+    <string name="pass">Passed</string>
+
+    <string name="restore_old_replace">Undo old prevention</string>
+    <string name="restore_old_replace_help">The rules of some files used to prevent may be deleted in the cloud, and in this case, your "undoing preventing" list will not include these files, and you are unable to undo them. You can find and undo them here.</string>
+
+    <string name="carefully_clean">Carefully clean up</string>
+    <string name="carefully_replace">Carefully Prevent</string>
+    <string name="carefully_both">Carefully clean up and prevent</string>
+
+    <string name="check_update">Check for updates</string>
+    <string name="update_available">Available</string>
+    <string name="update_current">Current</string>
+    <string name="update_older">Older</string>
+    <string name="play_store">Play Store</string>
+    <string name="tap_to_view_change_log">Tap to view changelog</string>
+    <string name="join_beta">Upgrading to Beta version means joining beta</string>
+    <string name="new_update_snack">New version available!</string>
+    <string name="check_update_short">View</string>
+
+    <string name="single_title">Specifically remove the item</string>
+    <string name="single_with_replace">With Prevent</string>
+
+    <string name="hide_anno">Hide Forever</string>
+
+    <string name="action_sort">Sort</string>
+    <string name="sort_size">Size</string>
+    <string name="sort_type">Type</string>
+    <string name="sort_application">Application</string>
+
+    <string name="ignore_tip">Ignored %1$s results</string>
+    <string name="ignore_tip_signal_case">Ignored</string>
+
+    <string name="progress_scan_found">%1$s found, <![CDATA[<b>%2$s selected</b>]]></string>
+
+    <string name="help">Help</string>
+
+    <string name="alert_all_remove">Remove all items?</string>
+    <string name="permission_denied">No storage permission</string>
+
+    <string name="retry">Retry</string>
+
+    <eat-comment />
+    <eat-comment />
+    <!-- Date format -->
+    <!-- Just, < 1 min -->
+    <!-- 1 Minute ago, >= 1 Minute, < 60 Minutes -->
+    <!-- 1 Hours ago, >= 1 hour, < 24 hours -->
+    <!-- 1 Day ago, >= 1 day, < days -->
+    <!-- For non-just and non-long format -->
+    <!-- For Just format -->
+    <!-- For Long ago format -->
+
+    <string name="source_manage">Manage Rule Source</string>
+    <string name="source_summary_none">(Did not provide an introduction)</string>
+    <string name="about">About</string>
+    <string name="open_source_licenses">Open Source Licenses</string>
+    <string name="slogan">SD card cleanup tool</string>
+    <string name="rule_author_developer">Developer</string>
+    <string name="developer">Developers &amp; Special Contributor</string>
+    <string name="contributors">These users below helps Dir growing (Not sorted)\n\n* @atony (Artist)\n* @neoFelhz (Homepage designer)\n* @RikkaW (Designer)\n* @fairyex (Designer, artist)\n* @dyingsu (Technological supporter)\n* @duangsuse (Technological supporter)</string>
+    <string name="title_contributors">Contributors</string>
+    <string name="privacy_info">https://github.com/TaRGroup/Privacy-Policy</string>
+    <string name="title_privacy">Piracy Policy</string>
+
+    <string name="error_source_invalid_no_info">Invalid source</string>
+    <string name="error_source_invalid">Invalid source, please contact %1$s</string>
+    <string name="source_add">Add Source</string>
+
+    <string name="github_username">GitHub Username</string>
+    <string name="github_repo">Repo</string>
+    <string name="github_branch">Branch (Optional)</string>
+    <string name="add">Add</string>
+    <string name="source_add_success">%1$s has been added</string>
+
+    <string name="confirm_delete">Confirm Delete</string>
+
+    <string name="source_sync_err_net">Could not sync %1$s, please check your network and try again.</string>
+
+    <string name="source_sync_success_all_done">Synchronization has been completed</string>
+    <string name="source_sync_success_err">Synchronized, but there are some errors, please check the logs</string>
+
+    <!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
+    <string name="application_info_label">App info</string>
+
+    <string name="rule_enabled">Rule Enabled</string>
+    <string name="rule_disabled_conflict">Rule has some conflicts</string>
+    <string name="rule_disabled_ignored">Rule has been ignored</string>
+    <string name="rule_enabled_summary">You can use this rule</string>
+    <string name="rule_disabled_conflict_summary">This rule path is same with another rule, it has been disabled</string>
+    <string name="rule_disabled_ignored_summary">Rule has been ignored, you can undo at "Ignored rules"</string>
+
+    <string name="rule_folder_title">Path</string>
+    <string name="rule_folder">SDCard %1$s %2$s</string>
+    <string name="rule_type_title">Type</string>
+    <string name="rule_pkgs_title">%1$s Apps may produce this file</string>
+
+    <string name="type_file">File</string>
+    <string name="type_folder">Folder</string>
+
+    <string name="prevent_summary_short">Prevent deleted files creating again</string>
+    <string name="prevent_summary"><![CDATA[
+    You can prevent deleted files re-creating. If you\'d like to use this feature, please enable it and check the checkbox (like a hand) in each scan result.
+
+<br />Dir will create a empty file with the same name and path when you\'re deleting a folder or file, it is used to prevent the deleted file/folder be re-created.
+
+<br /><br />
+<b>This feature is dangerous, use it on your own rick</b>. If you\'ve prevented some important files, it may cause some third-party applications failure (e.g. can\'t download, can\'t open).
+<br />You can use <b>Undo preventing</b> and <b>Undo old preventing</b>, they can solve most problems.
+    ]]></string>
+
+    <string name="rule_detail_author">By %1$s</string>
+
+    <string name="scan_group_multi_pkg">(Multiple)</string>
+    <string name="split_char">, </string>
+    <string name="restart">Restart</string>
+
+    <string name="update_subtitle_placeholder">%1$s‧%2$s</string>
+    <string name="title_under_construction">Still under construction</string>
+    <string name="under_construction_manage_source">Want to sync rules?</string>
+    <string name="error">Error</string>
+
+    <string name="license_buy_method_template">Activate via %1$s</string>
+    <string name="redeem">Redeem</string>
+    <string name="store">Store</string>
+    <string name="action_activate">Enter Key</string>
+    <string name="action_activate_summary">Activate, restore purchase, enter redeem code</string>
+    <string name="license_view_template"><![CDATA[
+License: %1$s<br />Transaction: %2$s<br />Email (null if your license is not from shop.yuuta.moe): %3$s
+    ]]></string>
+
+    <string name="activate_invalid">Your key is invalid</string>
+
+    <string name="developer_settings_title">Experimental Settings</string>
+    <string name="developer_settings_summary">These options are experimental, use them at your own rick</string>
+
+    <string name="feedback_apps_title">Dir Feedback</string>
+    <string name="feedback_payment_title">Dir Payment Feedback</string>
+    <string name="feedback_content_templace">
+        \nDevice Info (Please don\'t remove this part):\nManufacturer: %1$s\nDevice: %2$s\nVersion: %3$s\nSDK: %4$s\nDevice information end. \n
+    </string>
+
+    <string name="activate_title">Activate</string>
+    <string name="activate_action">Activate</string>
+    <string name="activate_subtitle">with your YuutaW\'s Store account</string>
+    <string name="activate_order_subtitle">with your order ID</string>
+    <string name="activate_order_id">Order ID</string>
+    <string name="activate_order_id_helper">From your Alipay order</string>
+    <string name="activate_order_help"><![CDATA[
+Have trouble getting your order ID? <a href="https://dir.yuuta.moe/support/which-kind-of-key-should-i-input/">Get help</a>
+    ]]></string>
+    <string name="activate_email">Email</string>
+    <string name="activate_serial">Serial</string>
+    <string name="activate_serial_helper">On the bottom of your order info</string>
+    <string name="activate_use_order">Use order ID</string>
+    <string name="activate_use_account">Use store account</string>
+    <string name="activate_done">Restart the app to apply the change</string>
+
+    <string name="notification_channel_update">Updates</string>
+    <string name="notification_title_update">%1$s is available for download</string>
+    <string name="notification_text_update_summary">Tap here to update to the latest version</string>
+    <string name="notification_text_update">Tap here to update to the latest version and get more features</string>
+
+    <string name="skip_rule_title">Ignored rules</string>
+    <string name="skip_rule_subtitle">You can swipe right in the scanning result page to ignore rules, and you can undo ignoring here</string>
+
+    <string name="settings_rules">Rules</string>
+    <string name="settings_support">Help &amp; support</string>
+
+    <string name="settings_licence">Your License</string>
+
+    <string name="settings_file_root_replace">Using root user</string>
+    <string name="settings_file_root_replace_summary">Prevent non-root apps from deleting prevented files</string>
+
+    <string name="settings_beta">Join the testing project</string>
+    <string name="settings_beta_summary">Install unstable versions, experience the latest features and help the developer test the app</string>
+
+    <string name="settings_ui">UI</string>
+
+    <string name="settings_styles">Colors</string>
+    <string name="settings_styles_primary">Primary color</string>
+    <string name="settings_styles_primary_summary">The primary color of Dir</string>
+    <string name="settings_styles_accent">Accent color</string>
+    <string name="settings_styles_accent_summary">Color for buttons, links, etc</string>
+    <string name="settings_styles_primary_dark">Primary dark color</string>
+    <string name="settings_styles_primary_dark_summary">Color for status bar (without main page)</string>
+
+    <string name="settings_contact_email">Email</string>
+    <string name="settings_other">Others</string>
+    <string name="settings_faq">Frequently asked questions</string>
+
+    <string name="developer_options">Developer options</string>
+    <string name="support_telegram">Telegram communication(salted fish) group</string>
+    <string name="support_share_logs">Share logs</string>
+
+    <string name="support_website">Official website</string>
+
+    <string name="status_bar_settings">Set main page status bar color</string>
+    <string name="status_alpha_default">Default</string>
+    <string name="status_alpha_white">Deep White</string>
+
+    <string name="root_replace_need_root">This feature needs &lt;b>root&lt;/b>. Dir will modify the permissions of the files be created during preventing in order to prevent other apps from deleting them.
+    &lt;br &lt;/>You cannot delete them without ROOT permission.
+    &lt;br &lt;/>&lt;br &lt;/>%1$s</string>
+
+    <string name="root_replace_support">Your device supports this feature, if the files used to prevent are still deletable, please send the results of "usability check" to the developer</string>
+    <string name="root_replace_not_support">Your device does not support this feature, you can send original terminal output to the developer</string>
+
+    <string name="check_root">Requesting root permission</string>
+    <string name="err_no_root">Root permission denied</string>
+
+    <string name="action_shell_raw_output">Original terminal output</string>
+    <string name="action_usability_test">Usability check</string>
+
+    <string name="force_enable_root_replace_summary">Although it looks doesn\'t support your device, you still can force enable it. (We recommand you use "Usability check" at first)</string>
+
+    <string name="iab_subtitle">Support my work and unlock full feature</string>
+
+    <string name="iab_function_uninstall_clean_title">Clean remnant after uninstallation</string>
+    <string name="iab_function_uninstall_clean_summary">Dir will scan and notify you after uninstallation of apps</string>
+
+    <string name="iab_function_skip_empty_folders_title">Skip empty folders</string>
+    <string name="iab_function_skip_empty_folders_summary">Skip empty folders when scanning</string>
+
+    <string name="err_network">Something wrong with network, please try again later</string>
+
+    <string name="err_user_not_found">User not found</string>
+    <string name="err_repo_not_found">Repo not found</string>
+    <string name="err_tree_not_found">Branch not found</string>
+    <string name="err_source_exist">Existing source</string>
+
+    <string name="mode_none">(none)</string>
+    <string name="mode_cache">cache</string>
+    <string name="mode_ad">ads</string>
+    <string name="mode_log">logs</string>
+    <string name="mode_uninstall">remnant after uninstallation</string>
+    <string name="mode_user_data">user data</string>
+    <string name="mode_custom">customs</string>
+</resources>
