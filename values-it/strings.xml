@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="current_translator">@ColinWood</string>
+    <string name="current_translator">\@ColinWood</string>
     <string name="about_current_translator">La tua lingua è tradotta da %1$s</string>
 
     <string name="empty">Vuoto</string>
@@ -15,7 +15,7 @@
     <string name="action_sync">Sincronizza</string>
     <string name="alert_will_clean">Tutti i selezionati verranno cancellati</string>
     <string name="alert_will_clean_confirm_circular">Assicurati che non causino errori</string>
-    <string name="err_no_trash">Grande! Non c'è nessun spazzatura trovato nel tuo telefono!</string>
+    <string name="err_no_trash">Grande! Non c\'è nessun spazzatura trovato nel tuo telefono!</string>
     <string name="err_need_sync">Si prega di sincronizzare prima le regole locali</string>
     <string name="action_settings">Impostazione</string>
     <string name="action_skip_empty_folder">Salta le regole vuote</string>
@@ -23,15 +23,15 @@
     <string name="action_contact_developer">Contatta lo sviluppatore</string>
     <string name="action_buy_google_play">Play Store</string>
     <string name="action_buy_alipay">Alipay</string>
-    <string name="text_buy_success">Grazie per l'acquisto. Riavvia l'app ora per applicare le modifiche.</string>
+    <string name="text_buy_success">Grazie per l\'acquisto. Riavvia l\'app ora per applicare le modifiche.</string>
     <string name="err_buy">Acquisto non riuscito, si prega di contattare lo sviluppatore per aiuto. %1$s</string>
     <string name="notification_uninstall_clean">App disinstallata, %1$s spazzatura rimanente</string>
     <string name="notification_uninstall_loading">Scansione rimanente per %1$s …</string>
     <string name="notification_uninstall_nothing">Non ho trovato nessuna spazzatura</string>
-    <string name="notification_uninstall_permission">Clicca per concedere l'autorizzazione necessaria</string>
+    <string name="notification_uninstall_permission">Clicca per concedere l\'autorizzazione necessaria</string>
     <string name="action_uninstall_clean">Pulisci il resto dopo la disinstallazione</string>
     <string name="toast_uninstall_clean_enable">Dir eseguirà una scansione e ti avviserà dopo la disinstallazione delle app</string>
-    <string name="title_replace_list">È possibile eliminare i file utilizzati per impedire qui. Se si cancellano i dati o il database di Dir, l'elenco andrà perso, è possibile ripetere la scansione per provare a ripristinare l'elenco di sostituzione. \n Premere a lungo per visualizzare i dettagli.</string>
+    <string name="title_replace_list">È possibile eliminare i file utilizzati per impedire qui. Se si cancellano i dati o il database di Dir, l\'elenco andrà perso, è possibile ripetere la scansione per provare a ripristinare l\'elenco di sostituzione. \n Premere a lungo per visualizzare i dettagli.</string>
     <string name="action_undo_ignore">Rimuovi la regola ignorata</string>
     <string name="action_undo_replace">Annulla la prevenzione</string>
     <string name="alert_undo_replace">Eliminare il file di prevenzione di %1$s ?</string>
@@ -55,7 +55,7 @@
     <string name="pass">Passato</string>
 
     <string name="restore_old_replace">Annulla la vecchia prevenzione</string>
-    <string name="restore_old_replace_help">Le regole di alcuni file utilizzati per prevenire possono essere eliminate nel cloud e, in questo caso, l'elenco "annulla l'annullamento" non include questi file e non è possibile annullarli. Puoi trovarli e annullarli qui.</string>
+    <string name="restore_old_replace_help">Le regole di alcuni file utilizzati per prevenire possono essere eliminate nel cloud e, in questo caso, l\'elenco "annulla l\'annullamento" non include questi file e non è possibile annullarli. Puoi trovarli e annullarli qui.</string>
 
     <string name="carefully_clean">Pulire attentamente</string>
     <string name="carefully_replace">Prevenire attentamente</string>
@@ -67,11 +67,11 @@
     <string name="update_older">Più vecchio</string>
     <string name="play_store">Play Store</string>
     <string name="tap_to_view_change_log">Tocca per visualizzare il log delle modifiche</string>
-    <string name="join_beta">L'aggiornamento alla versione beta implica l'adesione alla versione beta</string>
+    <string name="join_beta">L\'aggiornamento alla versione beta implica l\'adesione alla versione beta</string>
     <string name="new_update_snack">Nuova versione disponibile!</string>
     <string name="check_update_short">Vede</string>
 
-    <string name="single_title">Rimuovere specificamente l'oggetto</string>
+    <string name="single_title">Rimuovere specificamente l\'oggetto</string>
     <string name="single_with_replace">con Prevenire</string>
 
     <string name="hide_anno">Nascondi per sempre</string>
@@ -105,7 +105,7 @@
     <!-- For Long ago format -->
 
     <string name="source_manage">Gestisci origine regola</string>
-    <string name="source_summary_none">(Non ha fornito un'introduzione)</string>
+    <string name="source_summary_none">(Non ha fornito un\'introduzione)</string>
     <string name="about">About</string>
     <string name="open_source_licenses">Licenze open source</string>
     <string name="slogan">Strumento per la pulizia della scheda SD</string>
@@ -134,13 +134,13 @@
     <string name="source_sync_success_err">Sincronizzato, ma ci sono alcuni errori, si prega di controllare i registri</string>
 
     <!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
-    <string name="application_info_label">Informazioni sull'app</string>
+    <string name="application_info_label">Informazioni sull\'app</string>
 
     <string name="rule_enabled">Regola abilitata</string>
     <string name="rule_disabled_conflict">La regola ha alcuni conflitti</string>
     <string name="rule_disabled_ignored">La regola è stata ignorata</string>
     <string name="rule_enabled_summary">Puoi usare questa regola</string>
-    <string name="rule_disabled_conflict_summary">Questo percorso di regole è uguale a un'altra regola, è stato disabilitato</string>
+    <string name="rule_disabled_conflict_summary">Questo percorso di regole è uguale a un\'altra regola, è stato disabilitato</string>
     <string name="rule_disabled_ignored_summary">La regola è stata ignorata, puoi annullare in "Regole ignorate"</string>
 
     <string name="rule_folder_title">Path</string>
@@ -177,7 +177,7 @@
     <string name="redeem">Riscattare</string>
     <string name="store">Store</string>
     <string name="action_activate">Accedere Key</string>
-    <string name="action_activate_summary">Attiva, ripristina l'acquisto, inserisci il codice di riscatto</string>
+    <string name="action_activate_summary">Attiva, ripristina l\'acquisto, inserisci il codice di riscatto</string>
     <string name="license_view_template"><![CDATA[
 Licenza: %1$s<br />Transazione: %2$s<br />Email (null se la tua licenza non proviene da shop.yuuta.moe): %3$s
     ]]></string>
@@ -204,10 +204,10 @@ Hai problemi a ottenere il tuo ID ordine? <a href="https://dir.yuuta.moe/support
     ]]></string>
     <string name="activate_email">Email</string>
     <string name="activate_serial">Serial</string>
-    <string name="activate_serial_helper">Nella parte inferiore delle informazioni dell'ordine</string>
-    <string name="activate_use_order">Usa l'ID ordine</string>
+    <string name="activate_serial_helper">Nella parte inferiore delle informazioni dell\'ordine</string>
+    <string name="activate_use_order">Usa l\'ID ordine</string>
     <string name="activate_use_account">Usa store account</string>
-    <string name="activate_done">Riavvia l'app per applicare la modifica</string>
+    <string name="activate_done">Riavvia l\'app per applicare la modifica</string>
 
     <string name="notification_channel_update">Aggiornamenti</string>
     <string name="notification_title_update">%1$sè disponibile per il download</string>
@@ -215,18 +215,18 @@ Hai problemi a ottenere il tuo ID ordine? <a href="https://dir.yuuta.moe/support
     <string name="notification_text_update">Tocca qui per aggiornare alla versione più recente e ottenere più funzionalità</string>
 
     <string name="skip_rule_title">Regole ignorate</string>
-    <string name="skip_rule_subtitle">Puoi scorrere verso destra nella pagina dei risultati della scansione per ignorare le regole e puoi annullare l'ignoranza qui</string>
+    <string name="skip_rule_subtitle">Puoi scorrere verso destra nella pagina dei risultati della scansione per ignorare le regole e puoi annullare l\'ignoranza qui</string>
 
     <string name="settings_rules">Regole</string>
     <string name="settings_support">Aiuto &amp; Supporta</string>
 
     <string name="settings_licence">La tua licenza</string>
 
-    <string name="settings_file_root_replace">Utilizzando l'utente root</string>
+    <string name="settings_file_root_replace">Utilizzando l\'utente root</string>
     <string name="settings_file_root_replace_summary">Impedisci alle app non root di eliminare i file prevenuti</string>
 
     <string name="settings_beta">Partecipa al progetto di test</string>
-    <string name="settings_beta_summary">Installa versioni instabili, verifica le funzionalità più recenti e aiuta lo sviluppatore a testare l'app</string>
+    <string name="settings_beta_summary">Installa versioni instabili, verifica le funzionalità più recenti e aiuta lo sviluppatore a testare l\'app</string>
 
     <string name="settings_ui">UI</string>
 
@@ -257,7 +257,7 @@ Hai problemi a ottenere il tuo ID ordine? <a href="https://dir.yuuta.moe/support
      &lt;br&lt;/>&lt;br&lt;/>%1$s</string>
 
     <string name="root_replace_support">Il tuo dispositivo supporta questa funzione, se i file utilizzati per impedire sono ancora eliminabili, invia i risultati di "controllo di usabilità" allo sviluppatore</string>
-    <string name="root_replace_not_support">Il tuo dispositivo non supporta questa funzione, puoi inviare l'output del terminale originale allo sviluppatore</string>
+    <string name="root_replace_not_support">Il tuo dispositivo non supporta questa funzione, puoi inviare l\'output del terminale originale allo sviluppatore</string>
 
     <string name="check_root">Richiesta di autorizzazione root</string>
     <string name="err_no_root">Autorizzazione di root negata</string>
@@ -265,7 +265,7 @@ Hai problemi a ottenere il tuo ID ordine? <a href="https://dir.yuuta.moe/support
     <string name="action_shell_raw_output">Uscita terminale originale</string>
     <string name="action_usability_test">Controllo di usabilità</string>
 
-    <string name="force_enable_root_replace_summary">Anche se sembra che non supporti il tuo dispositivo, puoi comunque forzarlo ad abilitarlo. (Si consiglia di utilizzare "Verifica di usabilità" all'inizio)</string>
+    <string name="force_enable_root_replace_summary">Anche se sembra che non supporti il tuo dispositivo, puoi comunque forzarlo ad abilitarlo. (Si consiglia di utilizzare "Verifica di usabilità" all\'inizio)</string>
 
     <string name="iab_subtitle">Supporta il mio lavoro e sblocca tutte le funzionalità</string>
 
