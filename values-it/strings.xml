@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="current_translator">@ColinWood</string>
+    <string name="about_current_translator">La tua lingua è tradotta da %1$s</string>
+
+    <string name="empty">Vuoto</string>
+    <string name="title_clean">Pulire</string>
+    <string name="text_clean_finish">Spazio %1$s rilasciato</string>
+    <string name="text_clean_all">Rilasciato %1$S in todale</string>
+    <string name="text_replace">Prevenire</string>
+    <string name="text_loading">Caricamento</string>
+    <string name="text_delete">Elimina</string>
+    <string name="action_manage_rule">Gestisci le regole</string>
+    <string name="action_scan">Scansione</string>
+    <string name="action_sync">Sincronizza</string>
+    <string name="alert_will_clean">Tutti i selezionati verranno cancellati</string>
+    <string name="alert_will_clean_confirm_circular">Assicurati che non causino errori</string>
+    <string name="err_no_trash">Grande! Non c'è nessun spazzatura trovato nel tuo telefono!</string>
+    <string name="err_need_sync">Si prega di sincronizzare prima le regole locali</string>
+    <string name="action_settings">Impostazione</string>
+    <string name="action_skip_empty_folder">Salta le regole vuote</string>
+    <string name="action_unlock_full">Sblocca la versione completa</string>
+    <string name="action_contact_developer">Contatta lo sviluppatore</string>
+    <string name="action_buy_google_play">Play Store</string>
+    <string name="action_buy_alipay">Alipay</string>
+    <string name="text_buy_success">Grazie per l'acquisto. Riavvia l'app ora per applicare le modifiche.</string>
+    <string name="err_buy">Acquisto non riuscito, si prega di contattare lo sviluppatore per aiuto. %1$s</string>
+    <string name="notification_uninstall_clean">App disinstallata, %1$s spazzatura rimanente</string>
+    <string name="notification_uninstall_loading">Scansione rimanente per %1$s …</string>
+    <string name="notification_uninstall_nothing">Non ho trovato nessuna spazzatura</string>
+    <string name="notification_uninstall_permission">Clicca per concedere l'autorizzazione necessaria</string>
+    <string name="action_uninstall_clean">Pulisci il resto dopo la disinstallazione</string>
+    <string name="toast_uninstall_clean_enable">Dir eseguirà una scansione e ti avviserà dopo la disinstallazione delle app</string>
+    <string name="title_replace_list">È possibile eliminare i file utilizzati per impedire qui. Se si cancellano i dati o il database di Dir, l'elenco andrà perso, è possibile ripetere la scansione per provare a ripristinare l'elenco di sostituzione. \n Premere a lungo per visualizzare i dettagli.</string>
+    <string name="action_undo_ignore">Rimuovi la regola ignorata</string>
+    <string name="action_undo_replace">Annulla la prevenzione</string>
+    <string name="alert_undo_replace">Eliminare il file di prevenzione di %1$s ?</string>
+    <string name="alert_undo_ignore">Sei sicuro di ignorare %1$s ?</string>
+    <string name="err_undo">Impossibile annullare</string>
+    <string name="action_shortcut_clean">Pulisci i file</string>
+    <string name="alert_delete_message">Alcune regole (cancellazione o prevenzione) potrebbero non essere supportate dal tuo dispositivo (ROM). \n Stiamo facendo del nostro meglio per assicurarci che i tuoi dati non vengano cancellati o impediti in modo errato. \n Lo sviluppatore non ha alcuna responsabilità per i dati persi e la stabilità .</string>
+
+    <string name="unavailable">Non disponibile</string>
+
+    <string name="err_global">È successo qualcosa, per favore riprova più tardi</string>
+    <string name="success">Successo</string>
+
+    <string name="action_detail">Dettagli</string>
+    <string name="err_title">Errore</string>
+    <string name="finish">Fatto</string>
+    <string name="other">Altri</string>
+    <string name="enable">Attiva</string>
+
+    <string name="start">Inizia</string>
+    <string name="pass">Passato</string>
+
+    <string name="restore_old_replace">Annulla la vecchia prevenzione</string>
+    <string name="restore_old_replace_help">Le regole di alcuni file utilizzati per prevenire possono essere eliminate nel cloud e, in questo caso, l'elenco "annulla l'annullamento" non include questi file e non è possibile annullarli. Puoi trovarli e annullarli qui.</string>
+
+    <string name="carefully_clean">Pulire attentamente</string>
+    <string name="carefully_replace">Prevenire attentamente</string>
+    <string name="carefully_both">Pulire e revenire attentamente</string>
+
+    <string name="check_update">Controlla gli aggiornamenti</string>
+    <string name="update_available">Disponibile</string>
+    <string name="update_current">Corrente</string>
+    <string name="update_older">Più vecchio</string>
+    <string name="play_store">Play Store</string>
+    <string name="tap_to_view_change_log">Tocca per visualizzare il log delle modifiche</string>
+    <string name="join_beta">L'aggiornamento alla versione beta implica l'adesione alla versione beta</string>
+    <string name="new_update_snack">Nuova versione disponibile!</string>
+    <string name="check_update_short">Vede</string>
+
+    <string name="single_title">Rimuovere specificamente l'oggetto</string>
+    <string name="single_with_replace">con Prevenire</string>
+
+    <string name="hide_anno">Nascondi per sempre</string>
+
+    <string name="action_sort">Ordinare</string>
+    <string name="sort_size">Size</string>
+    <string name="sort_type">Tipo</string>
+    <string name="sort_application">Applicazione</string>
+
+    <string name="ignore_tip">Risultati %1$s ignorato</string>
+    <string name="ignore_tip_signal_case">Ignorato</string>
+
+    <string name="progress_scan_found">%1$s trovato, <![CDATA[<b>%2$s selezionato</b>]]></string>
+
+    <string name="help">Aiuto</string>
+
+    <string name="alert_all_remove">Rimuovere tutti gli articoli?</string>
+    <string name="permission_denied">Nessuna autorizzazione di archiviazione</string>
+
+    <string name="retry">Riprova</string>
+
+    <eat-comment />
+    <eat-comment />
+    <!-- Date format -->
+    <!-- Just, < 1 min -->
+    <!-- 1 Minute ago, >= 1 Minute, < 60 Minutes -->
+    <!-- 1 Hours ago, >= 1 hour, < 24 hours -->
+    <!-- 1 Day ago, >= 1 day, < days -->
+    <!-- For non-just and non-long format -->
+    <!-- For Just format -->
+    <!-- For Long ago format -->
+
+    <string name="source_manage">Gestisci origine regola</string>
+    <string name="source_summary_none">(Non ha fornito un'introduzione)</string>
+    <string name="about">About</string>
+    <string name="open_source_licenses">Licenze open source</string>
+    <string name="slogan">Strumento per la pulizia della scheda SD</string>
+    <string name="rule_author_developer">Sviluppatore</string>
+    <string name="developer">Sviluppatori &amp; Collaboratori speciali</string>
+    <string name="contributors">Questi utenti di seguito aiutano Dir in crescita (Non ordinato)\n\n* @atony (Artista)\n* @neoFelhz (designer della home page)\n* @RikkaW (Designer)\n* @fairyex (Designer, artista)\n* @dyingsu (sostenitore tecnologico)\n* @duangsuse (sostenitore tecnologico)</string>
+    <string name="title_contributors">Contributori</string>
+    <string name="privacy_info">https://github.com/TaRGroup/Privacy-Policy</string>
+    <string name="title_privacy">Politica di pirateria</string>
+
+    <string name="error_source_invalid_no_info">Fonte non validoe</string>
+    <string name="error_source_invalid">Fonte non valida, si prega di contattare %1$s</string>
+    <string name="source_add">Aggiungi fonte</string>
+
+    <string name="github_username">GitHub Nome utente</string>
+    <string name="github_repo">Repo</string>
+    <string name="github_branch">Filiale (facoltativa)</string>
+    <string name="add">Aggiungi</string>
+    <string name="source_add_success">%1$s è stato aggiunto</string>
+
+    <string name="confirm_delete">Conferma cancellazione</string>
+
+    <string name="source_sync_err_net">Impossibile sincronizzare %1$s, controlla la tua rete e riprova.</string>
+
+    <string name="source_sync_success_all_done">La sincronizzazione è stata completata</string>
+    <string name="source_sync_success_err">Sincronizzato, ma ci sono alcuni errori, si prega di controllare i registri</string>
+
+    <!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
+    <string name="application_info_label">Informazioni sull'app</string>
+
+    <string name="rule_enabled">Regola abilitata</string>
+    <string name="rule_disabled_conflict">La regola ha alcuni conflitti</string>
+    <string name="rule_disabled_ignored">La regola è stata ignorata</string>
+    <string name="rule_enabled_summary">Puoi usare questa regola</string>
+    <string name="rule_disabled_conflict_summary">Questo percorso di regole è uguale a un'altra regola, è stato disabilitato</string>
+    <string name="rule_disabled_ignored_summary">La regola è stata ignorata, puoi annullare in "Regole ignorate"</string>
+
+    <string name="rule_folder_title">Path</string>
+    <string name="rule_folder">SDCard %1$s %2$s</string>
+    <string name="rule_type_title">Tipo</string>
+    <string name="rule_pkgs_title">%1$s Le app possono produrre questo file</string>
+
+    <string name="type_file">File</string>
+    <string name="type_folder">Cartella</string>
+
+    <string name="prevent_summary_short">Previene la creazione di nuovi file cancellati</string>
+    <string name="prevent_summary"><![CDATA[
+    È possibile impedire la rigenerazione dei file eliminati. Se desideri utilizzare questa funzione, attivala e seleziona la casella di controllo (come una mano) in ogni risultato della scansione.
+
+<br />Dir crea un file vuoto con lo stesso nome e percorso quando si elimina una cartella o un file, viene utilizzato per impedire la creazione di file/cartelle cancellati.
+
+<br /><br />
+<b>Questa funzione è pericolosa, usala a tuo rischio</b>. Se hai impedito alcuni file importanti, potrebbe causare un errore di alcune applicazioni di terze parti (ad es. Non è possibile scaricare, non aprire).
+<br />Puoi usare <b>Annulla la prevenzione</b> e <b>Annulla la prevenzione precedente</b>, possono risolvere la maggior parte dei problemi.
+    ]]></string>
+
+    <string name="rule_detail_author">Da %1$s</string>
+
+    <string name="scan_group_multi_pkg">(Multiple)</string>
+    <string name="split_char">, </string>
+    <string name="restart">Riavvia</string>
+
+    <string name="update_subtitle_placeholder">%1$s‧%2$s</string>
+    <string name="title_under_construction">Ancora in costruzione</string>
+    <string name="under_construction_manage_source">Vuoi sincronizzare le regole?</string>
+    <string name="error">Errore</string>
+
+    <string name="license_buy_method_template">Attiva via %1$s</string>
+    <string name="redeem">Riscattare</string>
+    <string name="store">Store</string>
+    <string name="action_activate">Accedere Key</string>
+    <string name="action_activate_summary">Attiva, ripristina l'acquisto, inserisci il codice di riscatto</string>
+    <string name="license_view_template"><![CDATA[
+Licenza: %1$s<br />Transazione: %2$s<br />Email (null se la tua licenza non proviene da shop.yuuta.moe): %3$s
+    ]]></string>
+
+    <string name="activate_invalid">La tua chiave non è valida</string>
+
+    <string name="developer_settings_title">Impostazioni sperimentali</string>
+    <string name="developer_settings_summary">Queste opzioni sono sperimentali, usali a tuo rischio</string>
+
+    <string name="feedback_apps_title">Dir Feedback</string>
+    <string name="feedback_payment_title">Dir Pagamento Feedback</string>
+    <string name="feedback_content_templace">
+        \nInformazioni sul dispositivo (non rimuovere questa parte):\nFabbricante: %1$s\nDispositivo: %2$s\nVersione: %3$s\nSDK: %4$s\nFine del dispositivo. \n
+    </string>
+
+    <string name="activate_title">Attivare</string>
+    <string name="activate_action">Attivare</string>
+    <string name="activate_subtitle">Con il tuo account YuutaW\'s Store</string>
+    <string name="activate_order_subtitle">con il tuo ID ordine</string>
+    <string name="activate_order_id">ID ordine</string>
+    <string name="activate_order_id_helper">Dal tuo ordine Alipay</string>
+    <string name="activate_order_help"><![CDATA[
+Hai problemi a ottenere il tuo ID ordine? <a href="https://dir.yuuta.moe/support/which-kind-of-key-should-i-input/">Get help</a>
+    ]]></string>
+    <string name="activate_email">Email</string>
+    <string name="activate_serial">Serial</string>
+    <string name="activate_serial_helper">Nella parte inferiore delle informazioni dell'ordine</string>
+    <string name="activate_use_order">Usa l'ID ordine</string>
+    <string name="activate_use_account">Usa store account</string>
+    <string name="activate_done">Riavvia l'app per applicare la modifica</string>
+
+    <string name="notification_channel_update">Aggiornamenti</string>
+    <string name="notification_title_update">%1$sè disponibile per il download</string>
+    <string name="notification_text_update_summary">Tocca qui per aggiornare alla versione più recente</string>
+    <string name="notification_text_update">Tocca qui per aggiornare alla versione più recente e ottenere più funzionalità</string>
+
+    <string name="skip_rule_title">Regole ignorate</string>
+    <string name="skip_rule_subtitle">Puoi scorrere verso destra nella pagina dei risultati della scansione per ignorare le regole e puoi annullare l'ignoranza qui</string>
+
+    <string name="settings_rules">Regole</string>
+    <string name="settings_support">Aiuto &amp; Supporta</string>
+
+    <string name="settings_licence">La tua licenza</string>
+
+    <string name="settings_file_root_replace">Utilizzando l'utente root</string>
+    <string name="settings_file_root_replace_summary">Impedisci alle app non root di eliminare i file prevenuti</string>
+
+    <string name="settings_beta">Partecipa al progetto di test</string>
+    <string name="settings_beta_summary">Installa versioni instabili, verifica le funzionalità più recenti e aiuta lo sviluppatore a testare l'app</string>
+
+    <string name="settings_ui">UI</string>
+
+    <string name="settings_styles">Colore</string>
+    <string name="settings_styles_primary">Colore primario</string>
+    <string name="settings_styles_primary_summary">Il colore principale di Dir</string>
+    <string name="settings_styles_accent">Accent color</string>
+    <string name="settings_styles_accent_summary">Colore per pulsanti, collegamenti, ecc</string>
+    <string name="settings_styles_primary_dark">Colore scuro primario</string>
+    <string name="settings_styles_primary_dark_summary">Colore per barra di stato (senza pagina principale)</string>
+
+    <string name="settings_contact_email">Email</string>
+    <string name="settings_other">Altri</string>
+    <string name="settings_faq">Domande frequenti</string>
+
+    <string name="developer_options">Opzioni dello sviluppatore</string>
+    <string name="support_telegram">Gruppo di comunicazione (pesci salati) di Telegram</string>
+    <string name="support_share_logs">Share logs</string>
+
+    <string name="support_website">Sito ufficiale</string>
+
+    <string name="status_bar_settings">Imposta il colore della barra di stato della pagina principale</string>
+    <string name="status_alpha_default">Predefinito</string>
+    <string name="status_alpha_white">Deep White</string>
+
+    <string name="root_replace_need_root">Questa funzione richiede &lt;b>root&lt;/b>. Dir modificherà le autorizzazioni dei file da creare durante la prevenzione per impedire ad altre app di eliminarle.
+     &lt;br&lt;/>Non puoi eliminarli senza autorizzazione ROOT.
+     &lt;br&lt;/>&lt;br&lt;/>%1$s</string>
+
+    <string name="root_replace_support">Il tuo dispositivo supporta questa funzione, se i file utilizzati per impedire sono ancora eliminabili, invia i risultati di "controllo di usabilità" allo sviluppatore</string>
+    <string name="root_replace_not_support">Il tuo dispositivo non supporta questa funzione, puoi inviare l'output del terminale originale allo sviluppatore</string>
+
+    <string name="check_root">Richiesta di autorizzazione root</string>
+    <string name="err_no_root">Autorizzazione di root negata</string>
+
+    <string name="action_shell_raw_output">Uscita terminale originale</string>
+    <string name="action_usability_test">Controllo di usabilità</string>
+
+    <string name="force_enable_root_replace_summary">Anche se sembra che non supporti il tuo dispositivo, puoi comunque forzarlo ad abilitarlo. (Si consiglia di utilizzare "Verifica di usabilità" all'inizio)</string>
+
+    <string name="iab_subtitle">Supporta il mio lavoro e sblocca tutte le funzionalità</string>
+
+    <string name="iab_function_uninstall_clean_title">Pulisci il resto dopo la disinstallazione</string>
+    <string name="iab_function_uninstall_clean_summary">Dir eseguirà una scansione e ti avviserà dopo la disinstallazione delle app</string>
+
+    <string name="iab_function_skip_empty_folders_title">Salta le cartelle vuote</string>
+    <string name="iab_function_skip_empty_folders_summary">Salta le cartelle vuote durante la scansione</string>
+
+    <string name="err_network">Qualcosa non va con la rete, per favore riprova più tardi</string>
+
+    <string name="err_user_not_found">Utente non trovato</string>
+    <string name="err_repo_not_found">Repo not found</string>
+    <string name="err_tree_not_found">Branch not found</string>
+    <string name="err_source_exist">Existing source</string>
+
+    <string name="mode_none">(none)</string>
+    <string name="mode_cache">cache</string>
+    <string name="mode_ad">Annunci</string>
+    <string name="mode_log">logs</string>
+    <string name="mode_uninstall">remnant after uninstallation</string>
+    <string name="mode_user_data">user data</string>
+    <string name="mode_custom">customs</string>
+</resources>
