@@ -195,7 +195,7 @@
 
     <string name="activate_title">激活</string>
     <string name="activate_action">激活</string>
-    <string name="activate_subtitle">使用您的 YuutaW\'s 商店帐号</string>
+    <string name="activate_subtitle">使用您的 AppLine 商店帐号</string>
     <string name="activate_order_subtitle">使用您的订单 ID</string>
     <string name="activate_order_id">订单 ID</string>
     <string name="activate_order_id_helper">来自您的支付宝订单</string>

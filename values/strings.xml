@@ -195,7 +195,7 @@ License: %1$s<br />Transaction: %2$s<br />Email (null if your license is not fro
 
     <string name="activate_title">Activate</string>
     <string name="activate_action">Activate</string>
-    <string name="activate_subtitle">with your YuutaW\'s Store account</string>
+    <string name="activate_subtitle">with your AppLine Store account</string>
     <string name="activate_order_subtitle">with your order ID</string>
     <string name="activate_order_id">Order ID</string>
     <string name="activate_order_id_helper">From your Alipay order</string>

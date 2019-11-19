@@ -195,7 +195,7 @@
 
     <string name="activate_title">啟用</string>
     <string name="activate_action">啟用</string>
-    <string name="activate_subtitle">使用您的 YuutaW\'s 商店帳號</string>
+    <string name="activate_subtitle">使用您的 AppLine 商店帳號</string>
     <string name="activate_order_subtitle">使用您的訂單 ID</string>
     <string name="activate_order_id">訂單 ID</string>
     <string name="activate_order_id_helper">來自您的支付寶訂單</string>
