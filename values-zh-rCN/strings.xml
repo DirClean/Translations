@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="current_translator">开发者、加藤乃爱</string>
+    <string name="current_translator">开发者、TH779</string>
     <string name="about_current_translator">当前语言由 %1$s 翻译</string>
 
     <string name="empty">空</string>
