@@ -35,7 +35,7 @@
     <string name="action_undo_ignore">删除已忽略规则</string>
     <string name="action_undo_replace">撤销拦截</string>
     <string name="alert_undo_replace">确定要删掉 %1$s 的拦截文件吗？</string>
-    <string name="alert_undo_ignore">您确定要忽略 %1$s 吗？</string>
+    <string name="alert_undo_ignore">您确定要取消忽略 %1$s 吗？</string>
     <string name="err_undo">无法撤消</string>
     <string name="action_shortcut_clean">清理文件</string>
     <string name="alert_delete_message">一些规则（删除或拦截）可能不兼容您的设备（ROM）。\n我们也在竭尽全力保证您的数据不被误删或不正确地拦截。\n开发者不对您的数据和稳定性负责任。</string>
