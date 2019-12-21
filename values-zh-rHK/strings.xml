@@ -1,292 +1,292 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="current_translator">開發者、TH779</string>
-    <string name="about_current_translator">當前語言由 %1$s 翻譯</string>
+<string name="current_translator">DNADS</string>
+<string name="about_current_translator">当前语言由 %1$s 翻译</string>
 
-    <string name="empty">空</string>
-    <string name="title_clean">清理</string>
-    <string name="text_clean_finish">已釋放 %1$s 空間</string>
-    <string name="text_clean_all">累計清理了 %1$S</string>
-    <string name="text_replace">攔截</string>
-    <string name="text_loading">加載中</string>
-    <string name="text_delete">刪除</string>
-    <string name="action_manage_rule">管理規則</string>
-    <string name="action_scan">掃描</string>
-    <string name="action_sync">同步</string>
-    <string name="alert_will_clean">所有選中的文件都將被刪除</string>
-    <string name="alert_will_clean_confirm_circular">確保他們不會導致錯誤</string>
-    <string name="err_no_trash">太棒了！您的設備上沒有發現任何垃圾！</string>
-    <string name="err_need_sync">請先同步本地規則</string>
-    <string name="action_settings">設置</string>
-    <string name="action_skip_empty_folder">跳過空文件夾</string>
-    <string name="action_unlock_full">解鎖完整版</string>
-    <string name="action_contact_developer">聯繫開發者</string>
-    <string name="action_buy_google_play">Play 商店</string>
-    <string name="action_buy_alipay">支付寶</string>
-    <string name="text_buy_success">感謝您的購買。請立即重新啟動應用以應用更改。</string>
-    <string name="err_buy">購買失敗，請聯繫開發者來尋求幫助。%1$s</string>
-    <string name="notification_uninstall_clean">應用已卸載，剩餘 %1$s 垃圾</string>
-    <string name="notification_uninstall_loading">正在掃描 %1$s 的殘留…</string>
-    <string name="notification_uninstall_nothing">沒有發現任何垃圾，乾杯</string>
-    <string name="notification_uninstall_permission">點擊以授予必要的權限</string>
-    <string name="action_uninstall_clean">卸載後清理殘留</string>
-    <string name="toast_uninstall_clean_enable">Dir 將在卸載應用後掃描並通知您</string>
-    <string name="title_replace_list">您可以在此刪除用於攔截創建的文件。如果您清除了 Dir 的應用數據或數據庫，攔截列表會丟失，您可以重新掃描一遍來嘗試自動恢復攔截列表。\n長按可查看詳細信息。</string>
-    <string name="action_undo_ignore">刪除已忽略規則</string>
-    <string name="action_undo_replace">撤銷攔截</string>
-    <string name="alert_undo_replace">確定要刪掉 %1$s 的攔截文件嗎？</string>
-    <string name="alert_undo_ignore">您確定要取消忽略 %1$s 嗎？</string>
-    <string name="err_undo">無法撤消</string>
-    <string name="action_shortcut_clean">清理文件</string>
-    <string name="alert_delete_message">一些規則（刪除或攔截）可能不兼容您的設備（ROM）。\n我們也在竭盡全力保證您的數據不被誤刪或不正確地攔截。\n開發者不對您的數據和穩定性負責任。</string>
+<string name="empty">曆个地方冇嘢</string>
+<string name="title_clean">清理</string>
+<string name="text_clean_finish">已释放 %1$s 空间</string>
+<string name="text_clean_all">累计清理了 %1$S</string>
+<string name="text_replace">拦截</string>
+<string name="text_loading">加载中</string>
+<string name="text_delete">删除</string>
+<string name="action_manage_rule">管理规则</string>
+<string name="action_scan">扫描</string>
+<string name="action_sync">同步</string>
+<string name="alert_will_clean">所有选中嘅文件都会畀删除</string>
+<string name="alert_will_clean_confirm_circular">确保佢哋唔会导致失误</string>
+<string name="err_no_trash">太好啦！你嘅设备上冇睇到任何垃圾！</string>
+<string name="err_need_sync">请先同步本地规则</string>
+<string name="action_settings">设置</string>
+<string name="action_skip_empty_folder">跳过空文件夹</string>
+<string name="action_unlock_full">解锁完整版</string>
+<string name="action_contact_developer">联系开发者</string>
+<string name="action_buy_google_play">Play 商店</string>
+<string name="action_buy_alipay">支付宝</string>
+<string name="text_buy_success">多谢你嘅购买。请立即重新启动软件以应用更改。</string>
+<string name="err_buy">购买失败，Call开发者来帮手。%1$s</string>
+<string name="notification_uninstall_clean">我帮你卸载咗啦，剩低 %1$s 垃圾</string>
+<string name="notification_uninstall_loading">正在扫描 %1$s 嘅残留…</string>
+<string name="notification_uninstall_nothing">冇睇到任何垃圾，干杯</string>
+<string name="notification_uninstall_permission">点击以授予必要嘅权限</string>
+<string name="action_uninstall_clean">卸载后清理残留</string>
+<string name="toast_uninstall_clean_enable">Dir 我会係卸载软件后扫描并通知你</string>
+<string name="title_replace_list">你可以在此删除用于拦截创建嘅文件。如果你清除了 Dir 嘅软件数据或数据库，拦截列表会丢失，你可以重新扫描一次来尝试自动恢复拦截列表。\n长㩒可查看详细信息。</string>
+<string name="action_undo_ignore">删除已忽略规则</string>
+<string name="action_undo_replace">撤销拦截</string>
+<string name="alert_undo_replace">确定要删掉 %1$s 嘅拦截文件吗？</string>
+<string name="alert_undo_ignore">你确定要取消忽略 %1$s 吗？</string>
+<string name="err_undo">无法撤消</string>
+<string name="action_shortcut_clean">清理文件</string>
+<string name="alert_delete_message">一些规则（删除或拦截）可能唔兼容你嘅设备（ROM）。\n我哋也在竭尽全力保证你嘅数据唔畀误删或唔正确地拦截。\n开发者唔对你嘅数据和稳定性负责任。</string>
 
-    <string name="unavailable">不可用</string>
+<string name="unavailable">用唔到</string>
 
-    <string name="err_global">出現問題，請稍後再試</string>
-    <string name="success">成功</string>
+<string name="err_global">出现问题，请稍后再试</string>
+<string name="success">成功</string>
 
-    <string name="action_detail">詳情</string>
-    <string name="err_title">錯誤</string>
-    <string name="finish">完畢</string>
-    <string name="other">其他</string>
-    <string name="enable">啟用</string>
+<string name="action_detail">详情</string>
+<string name="err_title">失误</string>
+<string name="finish">完毕</string>
+<string name="other">其他</string>
+<string name="enable">启用</string>
 
-    <string name="start">開始</string>
-    <string name="pass">通過</string>
+<string name="start">开始</string>
+<string name="pass">通过</string>
 
-    <string name="restore_old_replace">撤銷舊的攔截</string>
-    <string name="restore_old_replace_help">某些已在您的設備上攔截的規則可能已被雲端刪除，這種情況下，您的“撤銷攔截”列表將無法找到該項目，因此您就無法撤銷它們。您可以從本列表找到並撤銷這些規則。</string>
+<string name="restore_old_replace">撤销旧嘅拦截</string>
+<string name="restore_old_replace_help">某些已在你嘅设备上拦截嘅规则可能已畀云端删除，这种情况下，你嘅“撤销拦截”列表将无法找到该项目，因此你就无法撤销佢哋。你可以从本列表找到并撤销曆啲规则。</string>
 
-    <string name="carefully_clean">謹慎清理</string>
-    <string name="carefully_replace">謹慎攔截</string>
-    <string name="carefully_both">謹慎清理及攔截</string>
+<string name="carefully_clean">谨慎清理</string>
+<string name="carefully_replace">谨慎拦截</string>
+<string name="carefully_both">谨慎清理及拦截</string>
 
-    <string name="check_update">檢查更新</string>
-    <string name="update_available">可下載</string>
-    <string name="update_current">當前</string>
-    <string name="update_older">舊版</string>
-    <string name="play_store">Play 商店</string>
-    <string name="tap_to_view_change_log">點擊即可查看更新日誌</string>
-    <string name="join_beta">安裝 Beta 版即表示加入測試</string>
-    <string name="new_update_snack">新版本可用！</string>
-    <string name="check_update_short">查看</string>
+<string name="check_update">检查更新</string>
+<string name="update_available">可下载</string>
+<string name="update_current">当前</string>
+<string name="update_older">旧版</string>
+<string name="play_store">Play 商店</string>
+<string name="tap_to_view_change_log">点击即可查看更新日志</string>
+<string name="join_beta">安装 Beta 版即表示加入测试</string>
+<string name="new_update_snack">新版本可用！</string>
+<string name="check_update_short">查看</string>
 
-    <string name="single_title">單獨刪除該項</string>
-    <string name="single_with_replace">同時攔截</string>
+<string name="single_title">单独删除该项</string>
+<string name="single_with_replace">同时拦截</string>
 
-    <string name="hide_anno">永久隱藏</string>
+<string name="hide_anno">永久隐藏</string>
 
-    <string name="action_sort">排序</string>
-    <string name="sort_size">體積</string>
-    <string name="sort_type">類型</string>
-    <string name="sort_application">應用</string>
+<string name="action_sort">排序</string>
+<string name="sort_size">体积</string>
+<string name="sort_type">类型</string>
+<string name="sort_application">应用</string>
 
-    <string name="ignore_tip">已忽略 %1$s 條結果</string>
-    <string name="ignore_tip_signal_case">已忽略</string>
+<string name="ignore_tip">已忽略 %1$s 条结果</string>
+<string name="ignore_tip_signal_case">已忽略</string>
 
-    <string name="progress_scan_found">找到 %1$s，<![CDATA[<b>已選%2$s</b>]]></string>
+<string name="progress_scan_found">找到 %1$s，<![CDATA[<b>已选%2$s</b>]]></string>
 
-    <string name="help">幫助</string>
+<string name="help">帮助</string>
 
-    <string name="alert_all_remove">刪除所有項目？</string>
-    <string name="permission_denied">沒有存儲權限</string>
+<string name="alert_all_remove">删除所有项目？</string>
+<string name="permission_denied">没有存储权限</string>
 
-    <string name="retry">重試</string>
+<string name="retry">重试</string>
 
-    <eat-comment />
-    <eat-comment />
-    <!-- Date format -->
-    <!-- Just, < 1 min -->
-    <!-- 1 Minute ago, >= 1 Minute, < 60 Minutes -->
-    <!-- 1 Hours ago, >= 1 hour, < 24 hours -->
-    <!-- 1 Day ago, >= 1 day, < days -->
-    <!-- For non-just and non-long format -->
-    <!-- For Just format -->
-    <!-- For Long ago format -->
+<eat-comment />
+<eat-comment />
+<!-- Date format -->
+<!-- Just, < 1 min -->
+<!-- 1 Minute ago, >= 1 Minute, < 60 Minutes -->
+<!-- 1 Hours ago, >= 1 hour, < 24 hours -->
+<!-- 1 Day ago, >= 1 day, < days -->
+<!-- For non-just and non-long format -->
+<!-- For Just format -->
+<!-- For Long ago format -->
 
-    <string name="source_manage">管理規則來源</string>
-    <string name="source_summary_none">（沒有提供介紹）</string>
-    <string name="about">關於</string>
-    <string name="open_source_licenses">開源許可證</string>
-    <string name="slogan">SD 卡清理工具</string>
-    <string name="rule_author_developer">開發者</string>
-    <string name="developer">開發者 &amp; 特別貢獻者</string>
-    <string name="contributors">下面這些用户幫助了 Dir（未排序）\n\n* @atony （藝術家）\n* @neoFelhz （主頁設計師）\n* @RikkaW （設計師）\n* @fairyex （設計師、藝術家）\n* @dyingsu （技術支持者）\n* @duangsuse （技術支持者）</string>
-    <string name="title_contributors">貢獻者</string>
-    <string name="privacy_info">https://github.com/TaRGroup/Privacy-Policy</string>
-    <string name="title_privacy">隱私政策</string>
+<string name="source_manage">管理规则来源</string>
+<string name="source_summary_none">（没有提供介绍）</string>
+<string name="about">关于</string>
+<string name="open_source_licenses">开源许可证</string>
+<string name="slogan">SD 卡清理工具</string>
+<string name="rule_author_developer">开发者</string>
+<string name="developer">开发者 & 特别贡献者</string>
+<string name="contributors">下面曆啲用户帮助了 Dir（未排序）\n\n* @atony （艺术家）\n* @neoFelhz （主页设计师）\n* @RikkaW （设计师）\n* @fairyex （设计师、艺术家）\n* @dyingsu （技术支持者）\n* @duangsuse （技术支持者）</string>
+<string name="title_contributors">贡献者</string>
+<string name="privacy_info">https://github.com/TaRGroup/Privacy-Policy</string>
+<string name="title_privacy">隐私政策</string>
 
-    <string name="error_source_invalid_no_info">無效來源</string>
-    <string name="error_source_invalid">無效來源，請聯繫 %1$s</string>
-    <string name="source_add">添加來源</string>
+<string name="error_source_invalid_no_info">无效来源</string>
+<string name="error_source_invalid">无效来源，请联系 %1$s</string>
+<string name="source_add">添加来源</string>
 
-    <string name="github_username">GitHub 用户名</string>
-    <string name="github_repo">存儲庫</string>
-    <string name="github_branch">分支（可選）</string>
-    <string name="add">添加</string>
-    <string name="source_add_success">%1$s 已添加</string>
+<string name="github_username">GitHub 用户名</string>
+<string name="github_repo">存储库</string>
+<string name="github_branch">分支（可选）</string>
+<string name="add">添加</string>
+<string name="source_add_success">%1$s 已添加</string>
 
-    <string name="confirm_delete">確認刪除</string>
+<string name="confirm_delete">确认删除</string>
 
-    <string name="source_sync_err_net">無法同步 %1$s，請檢查您的網絡並重試。</string>
+<string name="source_sync_err_net">无法同步 %1$s，请检查你嘅网络并重试。</string>
 
-    <string name="source_sync_success_all_done">同步已完成</string>
-    <string name="source_sync_success_err">已同步，但有一些錯誤，請檢查日誌</string>
+<string name="source_sync_success_all_done">同步已完成</string>
+<string name="source_sync_success_err">已同步，但有一些失误，请检查日志</string>
 
-    <!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
-    <string name="application_info_label">應用信息</string>
+<!-- Manage applications, individual application info screen title. For example, if they click on "Browser" in "Manage applications", the title of the next screen will be this -->
+<string name="application_info_label">软件信息</string>
 
-    <string name="rule_enabled">規則已啟用</string>
-    <string name="rule_disabled_conflict">規則有一些衝突</string>
-    <string name="rule_disabled_ignored">已忽略規則</string>
-    <string name="rule_enabled_summary">您可以使用此規則</string>
-    <string name="rule_disabled_conflict_summary">此規則路徑與另一個規則相同，已被禁用</string>
-    <string name="rule_disabled_ignored_summary">規則已被忽略，您可以在“已忽略規則”處撤消。</string>
+<string name="rule_enabled">规则已启用</string>
+<string name="rule_disabled_conflict">规则有一些冲突</string>
+<string name="rule_disabled_ignored">已忽略规则</string>
+<string name="rule_enabled_summary">你可以使用此规则</string>
+<string name="rule_disabled_conflict_summary">此规则路径与另一个规则相同，已畀禁用</string>
+<string name="rule_disabled_ignored_summary">规则已畀忽略，你可以在“已忽略规则”处撤消。</string>
 
-    <string name="rule_folder_title">路徑</string>
-    <string name="rule_folder">SD 卡 %1$s %2$s</string>
-    <string name="rule_type_title">類型</string>
-    <string name="rule_pkgs_title">%1$s 應用可能會生成此文件</string>
+<string name="rule_folder_title">路径</string>
+<string name="rule_folder">SD 卡 %1$s %2$s</string>
+<string name="rule_type_title">类型</string>
+<string name="rule_pkgs_title">%1$s 曆个软件可能会生成此文件</string>
 
-    <string name="type_file">文件</string>
-    <string name="type_folder">文件夾</string>
+<string name="type_file">文件</string>
+<string name="type_folder">文件夹</string>
 
-    <string name="prevent_summary_short">攔截刪除的文件再次被創建</string>
-    <string name="prevent_summary"><![CDATA[
-    您可以防止重新創建已刪除的文件。您如果要使用此功能，請啟用它並選中每個掃描結果中舉手圖標的複選框。
+<string name="prevent_summary_short">拦截删除嘅文件再次畀创建</string>
+<string name="prevent_summary"><![CDATA[
+你可以防止重新创建已删除嘅文件。你如果要使用此功能，请启用佢并选中每个扫描结果中举手图标嘅复选框。
 
-<br />當您刪除一個文件夾或文件時，Dir 將創建一個具有相同名稱和路徑的空文件，它用於攔截重新創建已刪除的文件/文件夾。
+<br />当你删除一个文件夹或文件时，Dir 将创建一个具有相同名称和路径嘅空文件，佢用于拦截重新创建已删除嘅文件/文件夹。
 
 <br /><br />
-<b>此功能很危險，風險請自行承擔</b>。如果您攔截了一些重要的文件，可能會導致某些第三方應用程序失敗（例如無法下載、無法打開）。
-<br />你可以使用<b>撤銷攔截</b>和<b>撤銷舊的攔截</b>，他們能解決大多數問題。
-    ]]></string>
+<b>此功能很危险，风险请自行承担</b>。如果你拦截了一些重要嘅文件，可能会导致某些第三方应用程序失败（例如无法下载、无法打开）。
+<br />你可以使用<b>撤销拦截</b>和<b>撤销旧嘅拦截</b>，佢哋能解决大多数问题。
+]]></string>
 
-    <string name="rule_detail_author">由 %1$s</string>
+<string name="rule_detail_author">由 %1$s</string>
 
-    <string name="scan_group_multi_pkg">（多個）</string>
-    <string name="split_char">，</string>
-    <string name="restart">重新啟動</string>
+<string name="scan_group_multi_pkg">（多个）</string>
+<string name="split_char">，</string>
+<string name="restart">重新启动</string>
 
-    <string name="update_subtitle_placeholder">%1$s ‧ %2$s</string>
-    <string name="title_under_construction">尚未開發完成</string>
-    <string name="under_construction_manage_source">想要同步規則？</string>
-    <string name="error">錯誤</string>
+<string name="update_subtitle_placeholder">%1$s ‧ %2$s</string>
+<string name="title_under_construction">尚未开发完成</string>
+<string name="under_construction_manage_source">想要同步规则？</string>
+<string name="error">错误</string>
 
-    <string name="license_buy_method_template">通過 %1$s 激活</string>
-    <string name="redeem">兑換</string>
-    <string name="store">商店</string>
-    <string name="action_activate">輸入密鑰</string>
-    <string name="action_activate_summary">激活、恢復購買、輸入兑換代碼</string>
-    <string name="license_view_template"><![CDATA[
-許可證： %1$s<br />交易： %2$s<br />電子郵件（如果您的許可證不是來自 shop.yuuta.moe，則為空）： %3$s
-    ]]></string>
+<string name="license_buy_method_template">通过 %1$s 激活</string>
+<string name="redeem">兑换</string>
+<string name="store">商店</string>
+<string name="action_activate">输入激活码</string>
+<string name="action_activate_summary">激活、恢复购买、输入兑换代码</string>
+<string name="license_view_template"><![CDATA[
+许可证： %1$s<br />交易： %2$s<br />电子邮件（如果你嘅许可证唔是来自 shop.yuuta.moe，则为空）： %3$s
+]]></string>
 
-    <string name="activate_invalid">您的密鑰無效</string>
+<string name="activate_invalid">你嘅激活码唔啱</string>
 
-    <string name="developer_settings_title">實驗室</string>
-    <string name="developer_settings_summary">這些選項是實驗性的，使用它們的風險由您自己承擔</string>
+<string name="developer_settings_title">实验室</string>
+<string name="developer_settings_summary">曆啲选项是实验性㗎，使用佢哋嘅风险由你自己承担</string>
 
-    <string name="feedback_apps_title">Dir 反饋</string>
-    <string name="feedback_payment_title">Dir 付款反饋</string>
-    <string name="feedback_content_templace">
-        \n設備信息 （請勿刪除這部分）：\n製造商： %1$s\n設備： %2$s\n版本： %3$s\nSDK： %4$s\n設備信息結束。\n
-    </string>
+<string name="feedback_apps_title">Dir 反馈</string>
+<string name="feedback_payment_title">Dir 付款反馈</string>
+<string name="feedback_content_templace">
+\n设备信息 （请勿删除这部分）：\n制造商： %1$s\n设备： %2$s\n版本： %3$s\nSDK： %4$s\n设备信息结束。\n
+</string>
 
-    <string name="activate_title">激活</string>
-    <string name="activate_action">激活</string>
-    <string name="activate_subtitle">使用您的 AppLine 商店帳號</string>
-    <string name="activate_order_subtitle">使用您的訂單 ID</string>
-    <string name="activate_order_id">訂單 ID</string>
-    <string name="activate_order_id_helper">來自您的支付寶訂單</string>
-    <string name="activate_order_help"><![CDATA[
-獲取訂單 ID 有困難？<a href="https://dir.yuuta.moe/support/which-kind-of-key-should-i-input/">獲取幫助</a>
-    ]]></string>
-    <string name="activate_email">電子郵件</string>
-    <string name="activate_serial">Serial</string>
-    <string name="activate_serial_helper">在訂單信息底部</string>
-    <string name="activate_use_order">使用訂單 ID</string>
-    <string name="activate_use_account">使用商店帳號</string>
-    <string name="activate_done">重新啟動應用以應用更改</string>
+<string name="activate_title">激活</string>
+<string name="activate_action">激活</string>
+<string name="activate_subtitle">使用你嘅 AppLine 商店帐号</string>
+<string name="activate_order_subtitle">使用你嘅订单 ID</string>
+<string name="activate_order_id">订单 ID</string>
+<string name="activate_order_id_helper">来自你嘅支付宝订单</string>
+<string name="activate_order_help"><![CDATA[
+获取订单 ID 有困难？<a href="https://dir.yuuta.moe/support/which-kind-of-key-should-i-input/">获取帮助</a>
+]]></string>
+<string name="activate_email">电子邮件</string>
+<string name="activate_serial">Serial</string>
+<string name="activate_serial_helper">在订单信息底部</string>
+<string name="activate_use_order">使用订单 ID</string>
+<string name="activate_use_account">使用商店帐号</string>
+<string name="activate_done">重新启动应用程序以应用更改</string>
 
-    <string name="notification_channel_update">升級</string>
-    <string name="notification_title_update">%1$s 可供下載</string>
-    <string name="notification_text_update_summary">點擊此處升級至最新版本</string>
-    <string name="notification_text_update">點擊此處升級至最新版本並獲取更多功能</string>
+<string name="notification_channel_update">升级</string>
+<string name="notification_title_update">%1$s 可供下载</string>
+<string name="notification_text_update_summary">点击此处升级至最新版本</string>
+<string name="notification_text_update">点击此处升级至最新版本并获取更多功能</string>
 
-    <string name="skip_rule_title">已忽略規則</string>
-    <string name="skip_rule_subtitle">您可以在掃描結果頁向右劃掉忽略不想被掃描到的規則，在此可以撤銷忽略</string>
+<string name="skip_rule_title">已忽略规则</string>
+<string name="skip_rule_subtitle">你可以在扫描结果页向右划掉忽略唔想畀扫描到嘅规则，在此可以撤销忽略</string>
 
-    <string name="settings_rules">規則</string>
-    <string name="settings_support">幫助和支持</string>
+<string name="settings_rules">规则</string>
+<string name="settings_support">帮助和支持</string>
 
-    <string name="settings_licence">您的許可證</string>
+<string name="settings_licence">你嘅许可证</string>
 
-    <string name="settings_file_root_replace">使用 Root 攔截</string>
-    <string name="settings_file_root_replace_summary">阻止非 Root 應用程序試圖刪除用於攔截的文件</string>
+<string name="settings_file_root_replace">使用 Root 拦截</string>
+<string name="settings_file_root_replace_summary">阻止非 Root 应用程序试图删除用于拦截嘅文件</string>
 
-    <string name="settings_beta">加入測試項目</string>
-    <string name="settings_beta_summary">安裝不穩定版本，體驗最新功能並幫助開發人員測試應用程序</string>
+<string name="settings_beta">加入测试项目</string>
+<string name="settings_beta_summary">安装唔稳定嘅版本，体验最新功能并帮助开发人员测试应用程序</string>
 
-    <string name="settings_ui">界面外觀</string>
+<string name="settings_ui">界面外观</string>
 
-    <string name="settings_styles">配色</string>
-    <string name="settings_styles_primary">基本色</string>
-    <string name="settings_styles_primary_summary">Dir 的基本色</string>
-    <string name="settings_styles_accent">強調色</string>
-    <string name="settings_styles_accent_summary">按鈕、鏈接等的顏色</string>
-    <string name="settings_styles_primary_dark">深基本色</string>
-    <string name="settings_styles_primary_dark_summary">狀態欄顏色（不帶主頁）</string>
+<string name="settings_styles">配色</string>
+<string name="settings_styles_primary">基本色</string>
+<string name="settings_styles_primary_summary">Dir 嘅基本色</string>
+<string name="settings_styles_accent">强调色</string>
+<string name="settings_styles_accent_summary">按钮、链接等嘅颜色</string>
+<string name="settings_styles_primary_dark">深基本色</string>
+<string name="settings_styles_primary_dark_summary">状态栏颜色（唔带主页）</string>
 
-    <string name="settings_contact_email">電子郵件</string>
-    <string name="settings_other">其他</string>
-    <string name="settings_faq">常見問題</string>
+<string name="settings_contact_email">电子邮件</string>
+<string name="settings_other">其他</string>
+<string name="settings_faq">常见问题</string>
 
-    <string name="developer_options">開發者選項</string>
-    <string name="support_telegram">Telegram 交（灌）流（水）羣</string>
-    <string name="support_share_logs">分享日誌</string>
+<string name="developer_options">开发者选项</string>
+<string name="support_telegram">Telegram 交（灌）流（水）群</string>
+<string name="support_share_logs">分享日志</string>
 
-    <string name="support_website">官方網站</string>
+<string name="support_website">官方网站</string>
 
-    <string name="status_bar_settings">設置主頁狀態欄顏色</string>
-    <string name="status_alpha_default">默認</string>
-    <string name="status_alpha_white">深白</string>
+<string name="status_bar_settings">设置主页状态栏颜色</string>
+<string name="status_alpha_default">默认</string>
+<string name="status_alpha_white">深白</string>
 
-    <string name="root_replace_need_root">本功能需要 &lt;b>Root&lt;/b>。它可以修改攔截時產生的文件權限防止其他應用刪除它們。
-    &lt;br &lt;/>刪除這些文件也同樣需要 Root 權限。
-    &lt;br &lt;/>&lt;br &lt;/>%1$s</string>
+<string name="root_replace_need_root">本功能需要 <b>Root</b>。佢可以修改拦截时产生嘅文件权限以防止其他应用删咗佢哋。
+<br </>删除曆啲文件也同样需要 Root 权限。
+<br </><br </>%1$s</string>
 
-    <string name="root_replace_support">您的設備支持此功能，如果用於攔截的文件仍然可以刪除，請將 可用性測試 結果發給開發者</string>
-    <string name="root_replace_not_support">您的設備不支持，您可以向開發者發送終端原始輸出</string>
+<string name="root_replace_support">你嘅设备支持此功能，如果用于拦截嘅文件仍然可以删除，请将 可用性测试 结果发给开发者</string>
+<string name="root_replace_not_support">你嘅设备唔支持，你可以向开发者发送终端原始输出</string>
 
-    <string name="check_root">正在申請 Root 權限</string>
-    <string name="err_no_root">缺少 Root 權限</string>
+<string name="check_root">正在申请 Root 权限</string>
+<string name="err_no_root">缺少 Root 权限</string>
 
-    <string name="action_shell_raw_output">終端原始輸出</string>
-    <string name="action_usability_test">可用性測試</string>
+<string name="action_shell_raw_output">终端原始输出</string>
+<string name="action_usability_test">可用性测试</string>
 
-    <string name="force_enable_root_replace_summary">雖然它看起來不支持您的設備，但您仍然可以強制啟用它。（我們建議您首先使用“可用性測試”）</string>
+<string name="force_enable_root_replace_summary">虽然佢睇起身唔支持你嘅设备，但你仍然可以强制启用佢。（我哋建议你首先使用“可用性测试”）</string>
 
-    <string name="iab_subtitle">支持我的工作並解鎖全部功能</string>
+<string name="iab_subtitle">支持我嘅工作并解锁全部功能</string>
 
-    <string name="iab_function_uninstall_clean_title">卸載清理</string>
-    <string name="iab_function_uninstall_clean_summary">將會在應用卸載後自動掃描並提醒您</string>
+<string name="iab_function_uninstall_clean_title">卸载清理</string>
+<string name="iab_function_uninstall_clean_summary">将会在软件卸载咗后自动扫描并提醒你</string>
 
-    <string name="iab_function_skip_empty_folders_title">跳過空文件夾</string>
-    <string name="iab_function_skip_empty_folders_summary">掃描時跳過空文件夾</string>
+<string name="iab_function_skip_empty_folders_title">跳过空文件夹</string>
+<string name="iab_function_skip_empty_folders_summary">扫描时跳过空文件夹</string>
 
-    <string name="err_network">網絡有問題，請稍後再試</string>
+<string name="err_network">唔好意思！网络有问题，请稍后再试</string>
 
-    <string name="err_user_not_found">用户未找到</string>
-    <string name="err_repo_not_found">存儲庫未找到</string>
-    <string name="err_tree_not_found">分支未找到</string>
-    <string name="err_source_exist">現有來源</string>
+<string name="err_user_not_found">搵唔到曆个人</string>
+<string name="err_repo_not_found">搵唔到仓库</string>
+<string name="err_tree_not_found">搵唔到分支</string>
+<string name="err_source_exist">现有来源</string>
 
-    <string name="mode_none">（無）</string>
-    <string name="mode_cache">緩存</string>
-    <string name="mode_ad">廣告</string>
-    <string name="mode_log">日誌</string>
-    <string name="mode_uninstall">卸載殘留</string>
-    <string name="mode_user_data">用户數據</string>
-    <string name="mode_custom">自定義</string>
+<string name="mode_none">（冇有）</string>
+<string name="mode_cache">缓存</string>
+<string name="mode_ad">广告</string>
+<string name="mode_log">日志</string>
+<string name="mode_uninstall">卸载残留</string>
+<string name="mode_user_data">用户数据</string>
+<string name="mode_custom">自定义</string>
 </resources>
