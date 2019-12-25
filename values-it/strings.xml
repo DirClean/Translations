@@ -200,7 +200,7 @@ Licenza: %1$s<br />Transazione: %2$s<br />Email (null se la tua licenza non prov
     <string name="activate_order_id">ID ordine</string>
     <string name="activate_order_id_helper">Dal tuo ordine Alipay</string>
     <string name="activate_order_help"><![CDATA[
-Hai problemi a ottenere il tuo ID ordine? <a href="https://dir.yuuta.moe/support/which-kind-of-key-should-i-input/">Get help</a>
+Hai problemi a ottenere il tuo ID ordine? <a href="https://dir.appline.xyz/#/activate-key">Get help</a>
     ]]></string>
     <string name="activate_email">Email</string>
     <string name="activate_serial">Serial</string>

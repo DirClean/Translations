@@ -179,7 +179,7 @@
     <string name="action_activate">輸入密鑰</string>
     <string name="action_activate_summary">激活、恢復購買、輸入兑換代碼</string>
     <string name="license_view_template"><![CDATA[
-許可證： %1$s<br />交易： %2$s<br />電子郵件（如果您的許可證不是來自 shop.yuuta.moe，則為空）： %3$s
+許可證： %1$s<br />交易： %2$s<br />電子郵件（如果您的許可證不是來自 appline.store 或 shop.yuuta.moe，則為空）： %3$s
     ]]></string>
 
     <string name="activate_invalid">您的密鑰無效</string>
@@ -200,7 +200,7 @@
     <string name="activate_order_id">訂單 ID</string>
     <string name="activate_order_id_helper">來自您的支付寶訂單</string>
     <string name="activate_order_help"><![CDATA[
-獲取訂單 ID 有困難？<a href="https://dir.yuuta.moe/support/which-kind-of-key-should-i-input/">獲取幫助</a>
+        獲取訂單 ID 有困難？<a href="https://dir.appline.xyz/#/zh-hans/activate-key">獲取幫助</a>
     ]]></string>
     <string name="activate_email">電子郵件</string>
     <string name="activate_serial">Serial</string>

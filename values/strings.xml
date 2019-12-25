@@ -179,7 +179,7 @@
     <string name="action_activate">Enter Key</string>
     <string name="action_activate_summary">Activate, restore purchase, enter redeem code</string>
     <string name="license_view_template"><![CDATA[
-License: %1$s<br />Transaction: %2$s<br />Email (null if your license is not from shop.yuuta.moe): %3$s
+License: %1$s<br />Transaction: %2$s<br />Email (null if your license is not from appline.store or shop.yuuta.moe): %3$s
     ]]></string>
 
     <string name="activate_invalid">Your key is invalid</string>
@@ -200,7 +200,7 @@ License: %1$s<br />Transaction: %2$s<br />Email (null if your license is not fro
     <string name="activate_order_id">Order ID</string>
     <string name="activate_order_id_helper">From your Alipay order</string>
     <string name="activate_order_help"><![CDATA[
-Have trouble getting your order ID? <a href="https://dir.yuuta.moe/support/which-kind-of-key-should-i-input/">Get help</a>
+        Have trouble getting your order ID? <a href="https://dir.appline.xyz/#/activate-key">Get help</a>
     ]]></string>
     <string name="activate_email">Email</string>
     <string name="activate_serial">Serial</string>
